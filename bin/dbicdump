@@ -1,0 +1,3 @@
+example
+
+dbicdump -o dump_directory=./lib Namespace::Schema 'dbi:mysql:litru:localhost:3306' litru litru

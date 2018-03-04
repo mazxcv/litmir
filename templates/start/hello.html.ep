@@ -1,0 +1,26 @@
+% layout 'default', title => "Search and Download Books";
+
+
+<div class="form-row">
+	<input class="form-control search-input" id="parser" placeholder="Insert litmir-url for parse">
+	<button type="submit" class="btn btn-primary search">Search</button>
+	<div class='search-result'></div>
+<div>
+
+<script>
+	$( document ).ready(function() {
+		$(".search").click(function() {
+			$('.search-result').text("Parsing working...");
+			$.ajax({
+				url     : "/litmir",
+				data    : { 'search': $('.search-input').val() },
+				dataType: 'json',
+				success : function(data) {
+					$('.search-result').text("Parsing done.");
+				}
+			});
+		})
+	});
+</script>
+
+

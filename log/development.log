@@ -1,0 +1,2087 @@
+[Fri Mar  2 19:51:51 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 19:51:55 2018] [debug] GET "/"
+[Fri Mar  2 19:51:55 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 19:51:55 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 19:51:55 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 19:51:55 2018] [debug] 200 OK (0.004391s, 227.739/s)
+[Fri Mar  2 20:04:33 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 20:04:37 2018] [debug] GET "/"
+[Fri Mar  2 20:04:37 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:04:37 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 20:04:37 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 20:04:37 2018] [debug] 200 OK (0.004691s, 213.174/s)
+[Fri Mar  2 20:06:05 2018] [debug] GET "/"
+[Fri Mar  2 20:06:05 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:06:05 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 20:06:05 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 20:06:05 2018] [debug] 200 OK (0.001148s, 871.080/s)
+[Fri Mar  2 20:06:06 2018] [debug] GET "/"
+[Fri Mar  2 20:06:06 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:06:06 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 20:06:06 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 20:06:06 2018] [debug] 200 OK (0.00155s, 645.161/s)
+[Fri Mar  2 20:06:07 2018] [debug] GET "/"
+[Fri Mar  2 20:06:07 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:06:07 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 20:06:07 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 20:06:07 2018] [debug] 200 OK (0.001533s, 652.316/s)
+[Fri Mar  2 20:06:08 2018] [debug] GET "/"
+[Fri Mar  2 20:06:08 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:06:08 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 20:06:08 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 20:06:08 2018] [debug] 200 OK (0.001549s, 645.578/s)
+[Fri Mar  2 20:06:09 2018] [debug] GET "/"
+[Fri Mar  2 20:06:09 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:06:09 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 20:06:09 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 20:06:09 2018] [debug] 200 OK (0.003385s, 295.421/s)
+[Fri Mar  2 20:06:10 2018] [debug] GET "/"
+[Fri Mar  2 20:06:10 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:06:10 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 20:06:10 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 20:06:10 2018] [debug] 200 OK (0.001598s, 625.782/s)
+[Fri Mar  2 20:06:11 2018] [debug] GET "/"
+[Fri Mar  2 20:06:11 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:06:11 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 20:06:11 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 20:06:11 2018] [debug] 200 OK (0.001784s, 560.538/s)
+[Fri Mar  2 20:06:12 2018] [debug] GET "/"
+[Fri Mar  2 20:06:12 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:06:12 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 20:06:12 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 20:06:12 2018] [debug] 200 OK (0.001806s, 553.710/s)
+[Fri Mar  2 20:06:13 2018] [debug] GET "/"
+[Fri Mar  2 20:06:13 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:06:13 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 20:06:13 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 20:06:13 2018] [debug] 200 OK (0.001913s, 522.739/s)
+[Fri Mar  2 20:06:36 2018] [debug] GET "/"
+[Fri Mar  2 20:06:36 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:06:36 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 20:06:36 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 20:06:36 2018] [debug] 200 OK (0.002841s, 351.989/s)
+[Fri Mar  2 20:08:32 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 20:08:34 2018] [debug] GET "/"
+[Fri Mar  2 20:08:34 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:08:34 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 20:08:34 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 20:08:34 2018] [debug] 200 OK (0.005864s, 170.532/s)
+[Fri Mar  2 20:10:01 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 20:10:04 2018] [debug] GET "/"
+[Fri Mar  2 20:10:04 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:10:04 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 20:10:04 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 20:10:04 2018] [debug] 200 OK (0.005414s, 184.706/s)
+[Fri Mar  2 20:17:33 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 20:17:36 2018] [debug] GET "/"
+[Fri Mar  2 20:17:36 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:17:36 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 20:17:36 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 20:17:36 2018] [debug] 200 OK (0.005944s, 168.237/s)
+[Fri Mar  2 20:19:39 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 20:19:41 2018] [debug] GET "/"
+[Fri Mar  2 20:19:41 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:19:41 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 20:19:41 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 20:19:41 2018] [debug] 200 OK (0.007087s, 141.103/s)
+[Fri Mar  2 20:23:19 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 20:23:21 2018] [debug] GET "/"
+[Fri Mar  2 20:23:21 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:23:21 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 20:23:21 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 20:23:21 2018] [debug] 200 OK (0.006004s, 166.556/s)
+[Fri Mar  2 20:26:56 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 20:26:58 2018] [debug] GET "/"
+[Fri Mar  2 20:26:58 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 20:26:58 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 20:26:58 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 20:26:58 2018] [debug] 200 OK (0.004631s, 215.936/s)
+[Fri Mar  2 21:05:27 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:05:31 2018] [debug] GET "/"
+[Fri Mar  2 21:05:31 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:05:31 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:05:31 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:05:31 2018] [debug] 200 OK (0.006356s, 157.332/s)
+[Fri Mar  2 21:05:40 2018] [debug] GET "/"
+[Fri Mar  2 21:05:40 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:05:40 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 21:05:40 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 21:05:40 2018] [debug] 200 OK (0.002343s, 426.803/s)
+[Fri Mar  2 21:05:43 2018] [debug] GET "/"
+[Fri Mar  2 21:05:43 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:05:43 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 21:05:43 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 21:05:43 2018] [debug] 200 OK (0.001185s, 843.882/s)
+[Fri Mar  2 21:06:39 2018] [debug] GET "/"
+[Fri Mar  2 21:06:39 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:06:39 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 21:06:39 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 21:06:39 2018] [debug] 200 OK (0.00258s, 387.597/s)
+[Fri Mar  2 21:06:39 2018] [debug] GET "/"
+[Fri Mar  2 21:06:39 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:06:39 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 21:06:39 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 21:06:39 2018] [debug] 200 OK (0.001612s, 620.347/s)
+[Fri Mar  2 21:07:51 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:07:55 2018] [debug] GET "/"
+[Fri Mar  2 21:07:55 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:07:55 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:07:55 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:07:55 2018] [debug] 200 OK (0.005489s, 182.183/s)
+[Fri Mar  2 21:11:37 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:11:43 2018] [debug] GET "/"
+[Fri Mar  2 21:11:43 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:11:43 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:11:43 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:11:43 2018] [debug] 200 OK (0.004444s, 225.023/s)
+[Fri Mar  2 21:14:07 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:14:11 2018] [debug] GET "/"
+[Fri Mar  2 21:14:11 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:14:11 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:14:11 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:14:11 2018] [debug] 200 OK (0.007542s, 132.591/s)
+[Fri Mar  2 21:15:43 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:15:47 2018] [debug] GET "/"
+[Fri Mar  2 21:15:47 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:15:47 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:15:47 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:15:47 2018] [debug] 200 OK (0.004353s, 229.727/s)
+[Fri Mar  2 21:17:49 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:17:53 2018] [debug] GET "/"
+[Fri Mar  2 21:17:53 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:17:53 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:17:53 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:17:53 2018] [debug] 200 OK (0.005834s, 171.409/s)
+[Fri Mar  2 21:18:18 2018] [debug] GET "/"
+[Fri Mar  2 21:18:18 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:18:18 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 21:18:18 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 21:18:18 2018] [debug] 200 OK (0.001155s, 865.801/s)
+[Fri Mar  2 21:18:56 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:19:00 2018] [debug] GET "/"
+[Fri Mar  2 21:19:00 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:19:00 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:19:00 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:19:00 2018] [debug] 200 OK (0.006803s, 146.994/s)
+[Fri Mar  2 21:21:18 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:21:22 2018] [debug] GET "/"
+[Fri Mar  2 21:21:22 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:21:22 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:21:22 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:21:22 2018] [debug] 200 OK (0.005349s, 186.951/s)
+[Fri Mar  2 21:21:32 2018] [debug] GET "/"
+[Fri Mar  2 21:21:32 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:21:32 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 21:21:32 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 21:21:32 2018] [debug] 200 OK (0.001581s, 632.511/s)
+[Fri Mar  2 21:21:33 2018] [debug] GET "/"
+[Fri Mar  2 21:21:33 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:21:33 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 21:21:33 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 21:21:33 2018] [debug] 200 OK (0.001461s, 684.463/s)
+[Fri Mar  2 21:21:34 2018] [debug] GET "/"
+[Fri Mar  2 21:21:34 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:21:34 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 21:21:34 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 21:21:34 2018] [debug] 200 OK (0.001354s, 738.552/s)
+[Fri Mar  2 21:21:34 2018] [debug] GET "/"
+[Fri Mar  2 21:21:34 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:21:34 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Fri Mar  2 21:21:34 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Fri Mar  2 21:21:34 2018] [debug] 200 OK (0.002798s, 357.398/s)
+[Fri Mar  2 21:21:52 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:21:55 2018] [debug] GET "/"
+[Fri Mar  2 21:21:55 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:21:55 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:21:55 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:21:55 2018] [debug] 200 OK (0.007979s, 125.329/s)
+[Fri Mar  2 21:24:16 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:24:20 2018] [debug] GET "/"
+[Fri Mar  2 21:24:20 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:24:20 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:24:20 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:24:20 2018] [debug] 200 OK (0.005637s, 177.399/s)
+[Fri Mar  2 21:27:17 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:27:20 2018] [debug] GET "/"
+[Fri Mar  2 21:27:20 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:27:20 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:27:20 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:27:20 2018] [debug] 200 OK (0.005273s, 189.645/s)
+[Fri Mar  2 21:31:45 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:31:49 2018] [debug] GET "/"
+[Fri Mar  2 21:31:49 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:31:49 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:31:49 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:31:49 2018] [debug] 200 OK (0.007932s, 126.072/s)
+[Fri Mar  2 21:31:53 2018] [debug] POST "/litmir"
+[Fri Mar  2 21:31:53 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 21:31:53 2018] [debug] Template "litmir/get_url.html.ep" not found
+[Fri Mar  2 21:31:53 2018] [debug] Nothing has been rendered, expecting delayed response
+[Fri Mar  2 21:32:08 2018] [debug] Inactivity timeout
+[Fri Mar  2 21:32:08 2018] [debug] POST "/litmir"
+[Fri Mar  2 21:32:08 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 21:32:08 2018] [debug] Template "litmir/get_url.html.ep" not found
+[Fri Mar  2 21:32:08 2018] [debug] Nothing has been rendered, expecting delayed response
+[Fri Mar  2 21:32:23 2018] [debug] Inactivity timeout
+[Fri Mar  2 21:35:44 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:35:52 2018] [debug] GET "/"
+[Fri Mar  2 21:35:52 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:35:52 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:35:52 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:35:52 2018] [debug] 200 OK (0.005313s, 188.218/s)
+[Fri Mar  2 21:35:56 2018] [debug] GET "/litmir"
+[Fri Mar  2 21:35:56 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 21:35:56 2018] [debug] Template "litmir/get_url.html.ep" not found
+[Fri Mar  2 21:35:56 2018] [debug] Nothing has been rendered, expecting delayed response
+[Fri Mar  2 21:36:11 2018] [debug] Inactivity timeout
+[Fri Mar  2 21:36:11 2018] [debug] GET "/litmir"
+[Fri Mar  2 21:36:11 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 21:36:11 2018] [debug] Template "litmir/get_url.html.ep" not found
+[Fri Mar  2 21:36:11 2018] [debug] Nothing has been rendered, expecting delayed response
+[Fri Mar  2 21:36:26 2018] [debug] Inactivity timeout
+[Fri Mar  2 21:47:38 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:47:46 2018] [debug] GET "/"
+[Fri Mar  2 21:47:46 2018] [debug] Class "App::Start" is not a controller
+[Fri Mar  2 21:47:46 2018] [debug] Rendering template "start/hello.html.ep"
+[Fri Mar  2 21:47:46 2018] [debug] Rendering template "layouts/default.html.ep"
+[Fri Mar  2 21:47:46 2018] [debug] 200 OK (0.007543s, 132.573/s)
+[Fri Mar  2 21:47:53 2018] [debug] GET "/litmir"
+[Fri Mar  2 21:47:54 2018] [error] Global symbol "$data" requires explicit package name (did you forget to declare "my $data"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 86.
+Compilation failed in require at (eval 97) line 1.
+
+[Fri Mar  2 21:47:54 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 21:47:54 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 21:47:54 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Fri Mar  2 21:47:54 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Fri Mar  2 21:47:54 2018] [debug] Your secret passphrase needs to be changed
+[Fri Mar  2 21:47:54 2018] [debug] 500 Internal Server Error (0.077855s, 12.844/s)
+[Fri Mar  2 21:49:39 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:49:44 2018] [debug] GET "/litmir"
+[Fri Mar  2 21:49:44 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 21:49:44 2018] [error] Can't use string ("Mojo::URL") as a HASH ref while "strict refs" in use at /usr/share/perl5/vendor_perl/Mojo/Base.pm line 59.
+
+[Fri Mar  2 21:49:44 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 21:49:44 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 21:49:44 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Fri Mar  2 21:49:44 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Fri Mar  2 21:49:44 2018] [debug] Your secret passphrase needs to be changed
+[Fri Mar  2 21:49:44 2018] [debug] 500 Internal Server Error (0.070945s, 14.095/s)
+[Fri Mar  2 21:50:17 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:50:21 2018] [debug] GET "/litmir"
+[Fri Mar  2 21:50:21 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 21:50:21 2018] [error] Can't locate object method "merge" via package "Mojo::URL" at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 21.
+
+[Fri Mar  2 21:50:21 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 21:50:21 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 21:50:21 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Fri Mar  2 21:50:21 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Fri Mar  2 21:50:21 2018] [debug] Your secret passphrase needs to be changed
+[Fri Mar  2 21:50:21 2018] [debug] 500 Internal Server Error (0.071476s, 13.991/s)
+[Fri Mar  2 21:50:54 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:50:59 2018] [debug] GET "/litmir"
+[Fri Mar  2 21:50:59 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 21:50:59 2018] [debug] 200 OK (0.049968s, 20.013/s)
+[Fri Mar  2 21:52:39 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 21:52:42 2018] [debug] GET "/litmir"
+[Fri Mar  2 21:52:42 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 21:52:42 2018] [debug] 200 OK (0.052648s, 18.994/s)
+[Fri Mar  2 22:00:50 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 22:00:54 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:00:54 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 22:00:54 2018] [error] Can't locate object method "is_abs" via package "Mojo::Parameters" at local/lib/perl5/Mojo/UserAgent.pm line 328.
+
+[Fri Mar  2 22:00:54 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 22:00:54 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 22:00:54 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Fri Mar  2 22:00:54 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Fri Mar  2 22:00:54 2018] [debug] Your secret passphrase needs to be changed
+[Fri Mar  2 22:00:54 2018] [debug] 500 Internal Server Error (0.085221s, 11.734/s)
+[Fri Mar  2 22:02:36 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 22:02:39 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:02:40 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 22:02:40 2018] [error] Can't locate object method "is_abs" via package "Mojo::Parameters" at local/lib/perl5/Mojo/UserAgent.pm line 328.
+
+[Fri Mar  2 22:02:40 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 22:02:40 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 22:02:40 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Fri Mar  2 22:02:40 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Fri Mar  2 22:02:40 2018] [debug] Your secret passphrase needs to be changed
+[Fri Mar  2 22:02:40 2018] [debug] 500 Internal Server Error (0.070897s, 14.105/s)
+[Fri Mar  2 22:03:50 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 22:03:52 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:03:52 2018] [error] syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 21, near "))"
+Compilation failed in require at (eval 93) line 1.
+
+[Fri Mar  2 22:03:52 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 22:03:52 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 22:03:52 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Fri Mar  2 22:03:52 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Fri Mar  2 22:03:52 2018] [debug] Your secret passphrase needs to be changed
+[Fri Mar  2 22:03:52 2018] [debug] 500 Internal Server Error (0.070926s, 14.099/s)
+[Fri Mar  2 22:04:17 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 22:04:21 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:04:21 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 22:04:21 2018] [error] Can't locate object method "then" via package "Mojo::Transaction::HTTP" at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 34.
+
+[Fri Mar  2 22:04:21 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 22:04:21 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 22:04:21 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Fri Mar  2 22:04:21 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Fri Mar  2 22:04:21 2018] [debug] Your secret passphrase needs to be changed
+[Fri Mar  2 22:04:21 2018] [debug] 500 Internal Server Error (0.067956s, 14.715/s)
+[Fri Mar  2 22:14:24 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 22:14:29 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:14:29 2018] [error] Global symbol "$res" requires explicit package name (did you forget to declare "my $res"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 24.
+Global symbol "$tx" requires explicit package name (did you forget to declare "my $tx"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 36.
+Global symbol "$tx" requires explicit package name (did you forget to declare "my $tx"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 37.
+Compilation failed in require at (eval 93) line 1.
+
+[Fri Mar  2 22:14:29 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 22:14:29 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 22:14:29 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Fri Mar  2 22:14:29 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Fri Mar  2 22:14:29 2018] [debug] Your secret passphrase needs to be changed
+[Fri Mar  2 22:14:29 2018] [debug] 500 Internal Server Error (0.074532s, 13.417/s)
+[Fri Mar  2 22:15:38 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 22:15:44 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:15:44 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 22:15:44 2018] [debug] 200 OK (0.054069s, 18.495/s)
+[Fri Mar  2 22:16:40 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 22:16:44 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:16:44 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 22:16:44 2018] [debug] 200 OK (0.053136s, 18.820/s)
+[Fri Mar  2 22:18:24 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 22:18:27 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:18:27 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 22:18:27 2018] [debug] 200 OK (0.048296s, 20.706/s)
+[Fri Mar  2 22:19:30 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 22:19:33 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:19:33 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 22:19:33 2018] [debug] 200 OK (0.047737s, 20.948/s)
+[Fri Mar  2 22:20:07 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 22:20:10 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:20:11 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 22:20:11 2018] [debug] 200 OK (0.049552s, 20.181/s)
+[Fri Mar  2 22:20:46 2018] [info] Listening at "http://*:3000"
+[Fri Mar  2 22:20:49 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:20:49 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 22:20:49 2018] [debug] 200 OK (0.05073s, 19.712/s)
+[Fri Mar  2 22:21:02 2018] [debug] GET "/litmir"
+[Fri Mar  2 22:21:02 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 22:21:02 2018] [debug] 200 OK (0.003413s, 292.997/s)
+[Fri Mar  2 23:10:17 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:10:17 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:10:17 2018] [debug] 200 OK (0.066805s, 14.969/s)
+[Fri Mar  2 23:10:33 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:10:34 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:10:34 2018] [debug] 200 OK (0.055021s, 18.175/s)
+[Fri Mar  2 23:11:14 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:11:14 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:11:14 2018] [debug] 200 OK (0.059597s, 16.779/s)
+[Fri Mar  2 23:12:00 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:12:00 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:12:00 2018] [debug] 200 OK (0.064116s, 15.597/s)
+[Fri Mar  2 23:12:05 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:12:05 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:12:05 2018] [debug] 200 OK (0.010572s, 94.589/s)
+[Fri Mar  2 23:13:07 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:13:07 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:13:07 2018] [debug] 200 OK (0.060106s, 16.637/s)
+[Fri Mar  2 23:13:32 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:13:32 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:13:32 2018] [debug] 200 OK (0.059927s, 16.687/s)
+[Fri Mar  2 23:14:10 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:14:10 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:14:10 2018] [debug] 200 OK (0.063438s, 15.763/s)
+[Fri Mar  2 23:15:43 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:15:43 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:15:43 2018] [debug] 200 OK (0.068725s, 14.551/s)
+[Fri Mar  2 23:15:55 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:15:55 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:15:55 2018] [debug] 200 OK (0.017594s, 56.838/s)
+[Fri Mar  2 23:16:44 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:16:44 2018] [error] Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 36.
+Compilation failed in require at (eval 98) line 1.
+
+[Fri Mar  2 23:16:44 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 23:16:44 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 23:16:44 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Fri Mar  2 23:16:44 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Fri Mar  2 23:16:44 2018] [debug] Your secret passphrase needs to be changed
+[Fri Mar  2 23:16:44 2018] [debug] 500 Internal Server Error (0.118499s, 8.439/s)
+[Fri Mar  2 23:16:55 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:16:55 2018] [error] Attempt to reload App/Litmir.pm aborted.
+Compilation failed in require at (eval 111) line 1.
+
+[Fri Mar  2 23:16:55 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 23:16:55 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 23:16:55 2018] [debug] Rendering cached template "mojo/debug.html.ep"
+[Fri Mar  2 23:16:56 2018] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Fri Mar  2 23:16:56 2018] [debug] 500 Internal Server Error (0.010591s, 94.420/s)
+[Fri Mar  2 23:18:10 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:18:10 2018] [error] Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 39.
+Compilation failed in require at (eval 98) line 1.
+
+[Fri Mar  2 23:18:10 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 23:18:10 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 23:18:10 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Fri Mar  2 23:18:10 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Fri Mar  2 23:18:10 2018] [debug] Your secret passphrase needs to be changed
+[Fri Mar  2 23:18:10 2018] [debug] 500 Internal Server Error (0.083673s, 11.951/s)
+[Fri Mar  2 23:19:02 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:19:02 2018] [error] Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 39.
+Compilation failed in require at (eval 98) line 1.
+
+[Fri Mar  2 23:19:02 2018] [debug] Template "exception.development.html.ep" not found
+[Fri Mar  2 23:19:02 2018] [debug] Template "exception.html.ep" not found
+[Fri Mar  2 23:19:02 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Fri Mar  2 23:19:02 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Fri Mar  2 23:19:02 2018] [debug] Your secret passphrase needs to be changed
+[Fri Mar  2 23:19:02 2018] [debug] 500 Internal Server Error (0.082775s, 12.081/s)
+[Fri Mar  2 23:20:31 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:20:32 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:20:32 2018] [debug] 200 OK (0.061515s, 16.256/s)
+[Fri Mar  2 23:21:42 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:21:42 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:21:42 2018] [debug] 200 OK (0.051514s, 19.412/s)
+[Fri Mar  2 23:22:32 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:22:32 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:22:32 2018] [debug] 200 OK (0.052244s, 19.141/s)
+[Fri Mar  2 23:23:18 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:23:18 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:23:18 2018] [debug] 200 OK (0.057409s, 17.419/s)
+[Fri Mar  2 23:24:38 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:24:38 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:24:38 2018] [debug] 200 OK (0.052313s, 19.116/s)
+[Fri Mar  2 23:39:29 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:39:30 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:39:30 2018] [debug] 200 OK (0.058573s, 17.073/s)
+[Fri Mar  2 23:39:47 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:39:47 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:39:47 2018] [debug] 200 OK (0.051965s, 19.244/s)
+[Fri Mar  2 23:42:21 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:42:21 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:42:21 2018] [debug] 200 OK (0.058566s, 17.075/s)
+[Fri Mar  2 23:44:48 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:44:48 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:44:48 2018] [debug] 200 OK (0.051304s, 19.492/s)
+[Fri Mar  2 23:45:58 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:45:58 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:45:58 2018] [debug] 200 OK (0.053237s, 18.784/s)
+[Fri Mar  2 23:55:07 2018] [debug] GET "/litmir"
+[Fri Mar  2 23:55:07 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Fri Mar  2 23:55:07 2018] [debug] 200 OK (0.049796s, 20.082/s)
+[Sat Mar  3 00:04:18 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:04:18 2018] [error] syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 32, near ")
+						author"
+Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 38.
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 40, near "return"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 41, near "})"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 45, near "}"
+Can't redeclare "my" in "my" at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 50, near "my"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 58, near "}"
+Can't redeclare "my" in "my" at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 63, near "my"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 67, near "}"
+Compilation failed in require at (eval 98) line 1.
+
+[Sat Mar  3 00:04:18 2018] [debug] Template "exception.development.html.ep" not found
+[Sat Mar  3 00:04:18 2018] [debug] Template "exception.html.ep" not found
+[Sat Mar  3 00:04:18 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sat Mar  3 00:04:18 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sat Mar  3 00:04:18 2018] [debug] Your secret passphrase needs to be changed
+[Sat Mar  3 00:04:18 2018] [debug] 500 Internal Server Error (0.092747s, 10.782/s)
+[Sat Mar  3 00:04:53 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:04:53 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:04:53 2018] [debug] 200 OK (0.058154s, 17.196/s)
+[Sat Mar  3 00:05:21 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:05:21 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:05:21 2018] [debug] 200 OK (0.057332s, 17.442/s)
+[Sat Mar  3 00:05:41 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:05:41 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:05:41 2018] [debug] 200 OK (0.00347s, 288.184/s)
+[Sat Mar  3 00:06:00 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:06:00 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:06:00 2018] [debug] 200 OK (0.057052s, 17.528/s)
+[Sat Mar  3 00:07:15 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:07:15 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:07:15 2018] [debug] 200 OK (0.063774s, 15.680/s)
+[Sat Mar  3 00:08:09 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:08:09 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:08:09 2018] [debug] 200 OK (0.059732s, 16.741/s)
+[Sat Mar  3 00:08:30 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:08:30 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:08:30 2018] [debug] 200 OK (0.066479s, 15.042/s)
+[Sat Mar  3 00:09:24 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:09:24 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:09:24 2018] [debug] 200 OK (0.05737s, 17.431/s)
+[Sat Mar  3 00:09:39 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:09:39 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:09:39 2018] [debug] 200 OK (0.059204s, 16.891/s)
+[Sat Mar  3 00:10:06 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:10:06 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:10:06 2018] [debug] 200 OK (0.055668s, 17.964/s)
+[Sat Mar  3 00:10:15 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:10:15 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:10:15 2018] [debug] 200 OK (0.002112s, 473.485/s)
+[Sat Mar  3 00:10:45 2018] [info] Listening at "http://*:3000"
+[Sat Mar  3 00:10:49 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:10:49 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:10:49 2018] [debug] 200 OK (0.049894s, 20.042/s)
+[Sat Mar  3 00:11:45 2018] [debug] GET "/litmir"
+[Sat Mar  3 00:11:45 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sat Mar  3 00:11:45 2018] [debug] 200 OK (0.05779s, 17.304/s)
+[Sun Mar  4 04:25:42 2018] [info] Listening at "http://*:3000"
+[Sun Mar  4 04:26:24 2018] [debug] GET "/"
+[Sun Mar  4 04:26:24 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 04:26:24 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 04:26:24 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 04:26:24 2018] [debug] 200 OK (0.277485s, 3.604/s)
+[Sun Mar  4 04:26:33 2018] [debug] GET "/litmir"
+[Sun Mar  4 04:26:33 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 04:26:33 2018] [debug] 200 OK (0.499055s, 2.004/s)
+[Sun Mar  4 05:14:10 2018] [debug] GET "/litmir"
+[Sun Mar  4 05:14:10 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 05:14:10 2018] [debug] 200 OK (0.002403s, 416.146/s)
+[Sun Mar  4 05:18:19 2018] [debug] GET "/litmir"
+[Sun Mar  4 05:18:19 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 05:18:19 2018] [debug] 200 OK (0.047437s, 21.081/s)
+[Sun Mar  4 06:49:49 2018] [debug] GET "/"
+[Sun Mar  4 06:49:49 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 06:49:49 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 06:49:49 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 06:49:49 2018] [debug] 200 OK (0.016283s, 61.414/s)
+[Sun Mar  4 06:54:20 2018] [debug] GET "/"
+[Sun Mar  4 06:54:20 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 06:54:20 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 06:54:20 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 06:54:20 2018] [debug] 200 OK (0.011676s, 85.646/s)
+[Sun Mar  4 06:58:45 2018] [debug] GET "/"
+[Sun Mar  4 06:58:45 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 06:58:45 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 06:58:45 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 06:58:45 2018] [debug] 200 OK (0.011647s, 85.859/s)
+[Sun Mar  4 06:58:49 2018] [debug] GET "/litmir"
+[Sun Mar  4 06:58:49 2018] [error] Experimental values on scalar is now forbidden at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 41.
+Type of arg 1 to values must be hash or array (not map iterator) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 41, near "$data]"
+Compilation failed in require at (eval 135) line 1.
+
+[Sun Mar  4 06:58:49 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 06:58:49 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 06:58:49 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 06:58:49 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 06:58:49 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 06:58:49 2018] [debug] 500 Internal Server Error (0.344801s, 2.900/s)
+[Sun Mar  4 06:59:06 2018] [debug] GET "/litmir"
+[Sun Mar  4 06:59:06 2018] [error] Attempt to reload App/Litmir.pm aborted.
+Compilation failed in require at (eval 148) line 1.
+
+[Sun Mar  4 06:59:06 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 06:59:06 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 06:59:06 2018] [debug] Rendering cached template "mojo/debug.html.ep"
+[Sun Mar  4 06:59:06 2018] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Sun Mar  4 06:59:06 2018] [debug] 500 Internal Server Error (0.009327s, 107.216/s)
+[Sun Mar  4 07:00:47 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:00:47 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:00:47 2018] [debug] 200 OK (0.054024s, 18.510/s)
+[Sun Mar  4 07:01:06 2018] [debug] GET "/"
+[Sun Mar  4 07:01:06 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 07:01:06 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 07:01:06 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 07:01:06 2018] [debug] 200 OK (0.006867s, 145.624/s)
+[Sun Mar  4 07:01:15 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:01:15 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:01:15 2018] [debug] 200 OK (0.002798s, 357.398/s)
+[Sun Mar  4 07:02:12 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:02:12 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:02:12 2018] [debug] 200 OK (0.046828s, 21.355/s)
+[Sun Mar  4 07:02:44 2018] [debug] GET "/"
+[Sun Mar  4 07:02:44 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 07:02:44 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 07:02:44 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 07:02:44 2018] [debug] 200 OK (0.011195s, 89.326/s)
+[Sun Mar  4 07:02:50 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:02:50 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:02:50 2018] [debug] 200 OK (0.043109s, 23.197/s)
+[Sun Mar  4 07:03:23 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:03:23 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:03:23 2018] [debug] 200 OK (0.055772s, 17.930/s)
+[Sun Mar  4 07:03:41 2018] [info] Listening at "http://*:3000"
+[Sun Mar  4 07:03:45 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:03:45 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:03:45 2018] [debug] 200 OK (0.043034s, 23.237/s)
+[Sun Mar  4 07:04:44 2018] [info] Listening at "http://*:3000"
+[Sun Mar  4 07:04:47 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:04:47 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:04:47 2018] [debug] 200 OK (0.044804s, 22.319/s)
+[Sun Mar  4 07:05:24 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:05:24 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:05:24 2018] [debug] 200 OK (0.002965s, 337.268/s)
+[Sun Mar  4 07:06:19 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:06:19 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:06:19 2018] [debug] 200 OK (0.003111s, 321.440/s)
+[Sun Mar  4 07:08:54 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:08:54 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:08:54 2018] [debug] 200 OK (0.055349s, 18.067/s)
+[Sun Mar  4 07:09:39 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:09:39 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:09:39 2018] [debug] 200 OK (0.048386s, 20.667/s)
+[Sun Mar  4 07:14:04 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:14:04 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:14:04 2018] [debug] 200 OK (0.049004s, 20.406/s)
+[Sun Mar  4 07:15:30 2018] [info] Listening at "http://*:3000"
+[Sun Mar  4 07:15:32 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:15:32 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:15:32 2018] [debug] 200 OK (0.044584s, 22.430/s)
+[Sun Mar  4 07:15:55 2018] [info] Listening at "http://*:3000"
+[Sun Mar  4 07:15:59 2018] [debug] GET "/"
+[Sun Mar  4 07:15:59 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 07:15:59 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 07:15:59 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 07:15:59 2018] [debug] 200 OK (0.005141s, 194.515/s)
+[Sun Mar  4 07:16:09 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:16:09 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:16:09 2018] [debug] 200 OK (0.044367s, 22.539/s)
+[Sun Mar  4 07:16:23 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:16:23 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:16:23 2018] [debug] 200 OK (0.024209s, 41.307/s)
+[Sun Mar  4 07:17:04 2018] [debug] GET "/"
+[Sun Mar  4 07:17:04 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 07:17:04 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Sun Mar  4 07:17:04 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 07:17:04 2018] [debug] 200 OK (0.010687s, 93.572/s)
+[Sun Mar  4 07:17:11 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:17:11 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:17:11 2018] [debug] 200 OK (0.003319s, 301.296/s)
+[Sun Mar  4 07:17:53 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:17:53 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:17:53 2018] [debug] 200 OK (0.046806s, 21.365/s)
+[Sun Mar  4 07:18:24 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:18:24 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:18:24 2018] [debug] 200 OK (0.005658s, 176.741/s)
+[Sun Mar  4 07:18:46 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:18:46 2018] [error] Global symbol "$author_id" requires explicit package name (did you forget to declare "my $author_id"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 42.
+Compilation failed in require at (eval 131) line 1.
+
+[Sun Mar  4 07:18:46 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 07:18:46 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 07:18:46 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 07:18:46 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 07:18:46 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 07:18:46 2018] [debug] 500 Internal Server Error (0.081786s, 12.227/s)
+[Sun Mar  4 07:18:53 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:18:53 2018] [error] Attempt to reload App/Litmir.pm aborted.
+Compilation failed in require at (eval 144) line 1.
+
+[Sun Mar  4 07:18:53 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 07:18:53 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 07:18:53 2018] [debug] Rendering cached template "mojo/debug.html.ep"
+[Sun Mar  4 07:18:53 2018] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Sun Mar  4 07:18:53 2018] [debug] 500 Internal Server Error (0.013177s, 75.890/s)
+[Sun Mar  4 07:19:06 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:19:06 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:19:06 2018] [debug] 200 OK (0.047262s, 21.159/s)
+[Sun Mar  4 07:19:30 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:19:30 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:19:30 2018] [debug] 200 OK (0.054269s, 18.427/s)
+[Sun Mar  4 07:20:30 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:20:30 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:20:30 2018] [debug] 200 OK (0.046929s, 21.309/s)
+[Sun Mar  4 07:20:58 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:20:58 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:20:58 2018] [debug] 200 OK (0.055857s, 17.903/s)
+[Sun Mar  4 07:21:15 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:21:15 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:21:15 2018] [debug] 200 OK (0.052468s, 19.059/s)
+[Sun Mar  4 07:22:21 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:22:21 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:22:21 2018] [debug] 200 OK (0.059849s, 16.709/s)
+[Sun Mar  4 07:24:07 2018] [debug] GET "/"
+[Sun Mar  4 07:24:07 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 07:24:07 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 07:24:07 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 07:24:07 2018] [debug] 200 OK (0.017813s, 56.139/s)
+[Sun Mar  4 07:24:09 2018] [debug] GET "/"
+[Sun Mar  4 07:24:09 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 07:24:09 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Sun Mar  4 07:24:09 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 07:24:09 2018] [debug] 200 OK (0.001229s, 813.670/s)
+[Sun Mar  4 07:24:18 2018] [debug] GET "/"
+[Sun Mar  4 07:24:18 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 07:24:18 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 07:24:18 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 07:24:18 2018] [debug] 200 OK (0.015305s, 65.338/s)
+[Sun Mar  4 07:24:30 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:24:30 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:24:30 2018] [debug] 200 OK (0.052094s, 19.196/s)
+[Sun Mar  4 07:25:35 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:25:35 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:25:35 2018] [debug] 200 OK (0.052979s, 18.875/s)
+[Sun Mar  4 07:25:45 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:25:45 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:25:45 2018] [debug] 200 OK (0.034471s, 29.010/s)
+[Sun Mar  4 07:25:57 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:25:57 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:25:57 2018] [debug] 200 OK (0.026938s, 37.122/s)
+[Sun Mar  4 07:28:46 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:28:46 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:28:46 2018] [debug] 200 OK (0.05782s, 17.295/s)
+[Sun Mar  4 07:29:07 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:29:07 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:29:07 2018] [debug] 200 OK (0.062188s, 16.080/s)
+[Sun Mar  4 07:29:34 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:29:34 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:29:34 2018] [debug] 200 OK (0.057556s, 17.374/s)
+[Sun Mar  4 07:31:01 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:31:01 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:31:01 2018] [debug] 200 OK (0.061045s, 16.381/s)
+[Sun Mar  4 07:35:07 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:35:07 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:35:07 2018] [debug] 200 OK (0.062205s, 16.076/s)
+[Sun Mar  4 07:35:20 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:35:20 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:35:20 2018] [debug] 200 OK (0.056406s, 17.729/s)
+[Sun Mar  4 07:36:31 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:36:31 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:36:31 2018] [debug] 200 OK (0.069404s, 14.408/s)
+[Sun Mar  4 07:37:06 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:37:06 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:37:06 2018] [debug] 200 OK (0.065064s, 15.369/s)
+[Sun Mar  4 07:37:32 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:37:32 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:37:32 2018] [debug] 200 OK (0.060189s, 16.614/s)
+[Sun Mar  4 07:37:41 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:37:41 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:37:41 2018] [debug] 200 OK (0.033646s, 29.721/s)
+[Sun Mar  4 07:38:00 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:38:00 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:38:00 2018] [debug] 200 OK (0.053908s, 18.550/s)
+[Sun Mar  4 07:40:41 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:40:41 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:40:41 2018] [debug] 200 OK (0.063187s, 15.826/s)
+[Sun Mar  4 07:41:03 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:41:03 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:41:03 2018] [debug] 200 OK (0.053966s, 18.530/s)
+[Sun Mar  4 07:43:35 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:43:35 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:43:35 2018] [debug] 200 OK (0.053371s, 18.737/s)
+[Sun Mar  4 07:44:56 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:44:56 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:44:56 2018] [debug] 200 OK (0.057035s, 17.533/s)
+[Sun Mar  4 07:45:22 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:45:22 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:45:22 2018] [debug] 200 OK (0.059298s, 16.864/s)
+[Sun Mar  4 07:46:44 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:46:44 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:46:44 2018] [debug] 200 OK (0.062444s, 16.014/s)
+[Sun Mar  4 07:47:55 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:47:55 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:47:55 2018] [debug] 200 OK (0.054844s, 18.234/s)
+[Sun Mar  4 07:49:28 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:49:28 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:49:28 2018] [debug] 200 OK (0.05568s, 17.960/s)
+[Sun Mar  4 07:51:31 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:51:31 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:51:31 2018] [debug] 200 OK (0.056634s, 17.657/s)
+[Sun Mar  4 07:52:04 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:52:04 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:52:04 2018] [debug] 200 OK (0.057804s, 17.300/s)
+[Sun Mar  4 07:52:20 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:52:20 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:52:20 2018] [debug] 200 OK (0.05701s, 17.541/s)
+[Sun Mar  4 07:53:13 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:53:13 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:53:13 2018] [debug] 200 OK (0.053512s, 18.687/s)
+[Sun Mar  4 07:54:14 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:54:14 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:54:14 2018] [debug] 200 OK (0.058941s, 16.966/s)
+[Sun Mar  4 07:55:35 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:55:35 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:55:35 2018] [debug] 200 OK (0.05499s, 18.185/s)
+[Sun Mar  4 07:56:10 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:56:10 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:56:10 2018] [debug] 200 OK (0.053423s, 18.719/s)
+[Sun Mar  4 07:56:59 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:56:59 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:56:59 2018] [debug] 200 OK (0.057829s, 17.292/s)
+[Sun Mar  4 07:57:32 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:57:32 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:57:32 2018] [debug] 200 OK (0.052808s, 18.937/s)
+[Sun Mar  4 07:57:48 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:57:48 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:57:48 2018] [debug] 200 OK (0.05088s, 19.654/s)
+[Sun Mar  4 07:58:13 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:58:13 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:58:13 2018] [debug] 200 OK (0.056273s, 17.771/s)
+[Sun Mar  4 07:58:36 2018] [debug] GET "/litmir"
+[Sun Mar  4 07:58:36 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 07:58:36 2018] [debug] 200 OK (0.050356s, 19.859/s)
+[Sun Mar  4 08:58:26 2018] [debug] GET "/litmir"
+[Sun Mar  4 08:58:26 2018] [error] Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 39.
+Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 40.
+Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 41.
+Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 47.
+Compilation failed in require at (eval 131) line 1.
+
+[Sun Mar  4 08:58:26 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 08:58:26 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 08:58:26 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 08:58:26 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 08:58:26 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 08:58:26 2018] [debug] 500 Internal Server Error (0.075408s, 13.261/s)
+[Sun Mar  4 08:58:38 2018] [debug] GET "/litmir"
+[Sun Mar  4 08:58:38 2018] [error] Attempt to reload App/Litmir.pm aborted.
+Compilation failed in require at (eval 144) line 1.
+
+[Sun Mar  4 08:58:38 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 08:58:38 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 08:58:38 2018] [debug] Rendering cached template "mojo/debug.html.ep"
+[Sun Mar  4 08:58:38 2018] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Sun Mar  4 08:58:38 2018] [debug] 500 Internal Server Error (0.00667s, 149.925/s)
+[Sun Mar  4 08:59:37 2018] [debug] GET "/litmir"
+[Sun Mar  4 08:59:37 2018] [error] Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 39.
+Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 40.
+Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 41.
+Global symbol "$book" requires explicit package name (did you forget to declare "my $book"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 47.
+Compilation failed in require at (eval 131) line 1.
+
+[Sun Mar  4 08:59:37 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 08:59:37 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 08:59:37 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 08:59:37 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 08:59:37 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 08:59:37 2018] [debug] 500 Internal Server Error (0.074788s, 13.371/s)
+[Sun Mar  4 09:00:45 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:00:45 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:00:45 2018] [debug] 200 OK (0.049871s, 20.052/s)
+[Sun Mar  4 09:01:38 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:01:38 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:01:38 2018] [debug] 200 OK (0.047886s, 20.883/s)
+[Sun Mar  4 09:02:18 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:02:18 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:02:18 2018] [debug] 200 OK (0.045951s, 21.762/s)
+[Sun Mar  4 09:02:34 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:02:34 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:02:34 2018] [debug] 200 OK (0.051156s, 19.548/s)
+[Sun Mar  4 09:02:45 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:02:45 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:02:45 2018] [debug] 200 OK (0.045989s, 21.744/s)
+[Sun Mar  4 09:03:00 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:03:00 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:03:00 2018] [debug] 200 OK (0.044823s, 22.310/s)
+[Sun Mar  4 09:03:18 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:03:18 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:03:18 2018] [debug] 200 OK (0.044462s, 22.491/s)
+[Sun Mar  4 09:03:45 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:03:45 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:03:45 2018] [debug] 200 OK (0.041726s, 23.966/s)
+[Sun Mar  4 09:04:09 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:04:09 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:04:09 2018] [debug] 200 OK (0.004027s, 248.324/s)
+[Sun Mar  4 09:04:28 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:04:28 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:04:28 2018] [debug] 200 OK (0.005165s, 193.611/s)
+[Sun Mar  4 09:05:20 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:05:20 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:05:20 2018] [debug] 200 OK (0.048947s, 20.430/s)
+[Sun Mar  4 09:05:35 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:05:35 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:05:35 2018] [debug] 200 OK (0.041437s, 24.133/s)
+[Sun Mar  4 09:05:57 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:05:57 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:05:57 2018] [debug] 200 OK (0.045732s, 21.867/s)
+[Sun Mar  4 09:28:05 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:28:05 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:28:05 2018] [debug] 200 OK (0.049811s, 20.076/s)
+[Sun Mar  4 09:29:22 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:29:22 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:29:22 2018] [debug] 200 OK (0.049347s, 20.265/s)
+[Sun Mar  4 09:29:42 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:29:42 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:29:42 2018] [debug] 200 OK (0.004751s, 210.482/s)
+[Sun Mar  4 09:30:26 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:30:26 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:30:26 2018] [debug] 200 OK (0.050001s, 20.000/s)
+[Sun Mar  4 09:31:18 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:31:18 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:31:18 2018] [debug] 200 OK (0.055645s, 17.971/s)
+[Sun Mar  4 09:32:17 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:32:17 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:32:17 2018] [debug] 200 OK (0.051436s, 19.442/s)
+[Sun Mar  4 09:33:31 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:33:31 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:33:31 2018] [debug] 200 OK (0.052059s, 19.209/s)
+[Sun Mar  4 09:34:29 2018] [debug] GET "/"
+[Sun Mar  4 09:34:29 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 09:34:29 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 09:34:29 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 09:34:29 2018] [debug] 200 OK (0.018012s, 55.519/s)
+[Sun Mar  4 09:34:38 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:34:38 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:34:38 2018] [debug] 200 OK (0.053729s, 18.612/s)
+[Sun Mar  4 09:37:25 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:37:25 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:37:25 2018] [debug] 200 OK (0.061073s, 16.374/s)
+[Sun Mar  4 09:37:49 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:37:49 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:37:49 2018] [debug] 200 OK (0.053262s, 18.775/s)
+[Sun Mar  4 09:38:16 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:38:16 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:38:16 2018] [debug] 200 OK (0.063799s, 15.674/s)
+[Sun Mar  4 09:42:33 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:42:34 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:42:34 2018] [debug] 200 OK (0.0606910000000001s, 16.477/s)
+[Sun Mar  4 09:43:27 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:43:27 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:43:27 2018] [debug] 200 OK (0.056435s, 17.720/s)
+[Sun Mar  4 09:45:12 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:45:12 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:45:12 2018] [debug] 200 OK (0.063229s, 15.816/s)
+[Sun Mar  4 09:46:34 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:46:34 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:46:34 2018] [debug] 200 OK (0.053583s, 18.663/s)
+[Sun Mar  4 09:47:07 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:47:07 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:47:07 2018] [debug] 200 OK (0.052439s, 19.070/s)
+[Sun Mar  4 09:50:08 2018] [debug] GET "/"
+[Sun Mar  4 09:50:08 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 09:50:08 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 09:50:08 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 09:50:08 2018] [debug] 200 OK (0.013616s, 73.443/s)
+[Sun Mar  4 09:50:24 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:50:24 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:50:24 2018] [debug] 200 OK (0.05364s, 18.643/s)
+[Sun Mar  4 09:53:36 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:53:37 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:53:37 2018] [debug] 200 OK (0.0634670000000001s, 15.756/s)
+[Sun Mar  4 09:55:36 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:55:36 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:55:36 2018] [debug] 200 OK (0.079591s, 12.564/s)
+[Sun Mar  4 09:57:51 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:57:51 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:57:51 2018] [debug] 200 OK (0.061418s, 16.282/s)
+[Sun Mar  4 09:59:29 2018] [debug] GET "/litmir"
+[Sun Mar  4 09:59:29 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 09:59:29 2018] [debug] 200 OK (0.062848s, 15.911/s)
+[Sun Mar  4 10:00:41 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:00:41 2018] [error] syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 23, near ");"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 23, near "$url)"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 50, near "})"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 54, near "}"
+Can't redeclare "my" in "my" at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 59, near "my"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 67, near "}"
+Can't redeclare "my" in "my" at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 72, near "my"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 76, near "}"
+Compilation failed in require at (eval 132) line 1.
+
+[Sun Mar  4 10:00:41 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 10:00:41 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 10:00:41 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 10:00:41 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 10:00:41 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 10:00:41 2018] [debug] 500 Internal Server Error (0.093198s, 10.730/s)
+[Sun Mar  4 10:04:16 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:04:16 2018] [error] syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 25, near "(;"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 25, near "$url)"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 52, near "})"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 56, near "}"
+Can't redeclare "my" in "my" at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 61, near "my"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 69, near "}"
+Can't redeclare "my" in "my" at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 74, near "my"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 78, near "}"
+Compilation failed in require at (eval 132) line 1.
+
+[Sun Mar  4 10:04:16 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 10:04:16 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 10:04:16 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 10:04:16 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 10:04:16 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 10:04:16 2018] [debug] 500 Internal Server Error (0.103277s, 9.683/s)
+[Sun Mar  4 10:05:26 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:05:26 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 10:05:26 2018] [debug] 200 OK (0.064164s, 15.585/s)
+[Sun Mar  4 10:07:17 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:07:17 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 10:07:17 2018] [debug] 200 OK (0.054773s, 18.257/s)
+[Sun Mar  4 10:09:06 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:09:06 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 10:09:06 2018] [error] Can't locate object method "is_abs" via package "Mojo::Parameters" at /usr/share/perl5/vendor_perl/Mojo/UserAgent.pm line 300.
+
+[Sun Mar  4 10:09:06 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 10:09:06 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 10:09:06 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 10:09:06 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 10:09:06 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 10:09:06 2018] [debug] 500 Internal Server Error (0.083031s, 12.044/s)
+[Sun Mar  4 10:13:50 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:13:50 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 10:13:50 2018] [error] Can't locate object method "log" via package "App::Litmir" at /usr/share/perl5/vendor_perl/Mojolicious.pm line 138.
+
+[Sun Mar  4 10:13:50 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 10:13:50 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 10:13:50 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 10:13:50 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 10:13:50 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 10:13:50 2018] [debug] 500 Internal Server Error (0.089688s, 11.150/s)
+[Sun Mar  4 10:14:24 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:14:24 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 10:14:24 2018] [info] Generate urls
+[Sun Mar  4 10:14:24 2018] [error] Can't locate object method "is_abs" via package "Mojo::Parameters" at /usr/share/perl5/vendor_perl/Mojo/UserAgent.pm line 300.
+
+[Sun Mar  4 10:14:24 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 10:14:24 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 10:14:24 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 10:14:24 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 10:14:24 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 10:14:24 2018] [debug] 500 Internal Server Error (0.095111s, 10.514/s)
+[Sun Mar  4 10:15:02 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:15:02 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 10:15:02 2018] [info] Generate urls
+[Sun Mar  4 10:15:02 2018] [debug] 200 OK (0.057847s, 17.287/s)
+[Sun Mar  4 10:17:05 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:17:05 2018] [error] syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 25, near ")
+
+		$self"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 52, near "})"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 56, near "}"
+Can't redeclare "my" in "my" at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 61, near "my"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 69, near "}"
+Can't redeclare "my" in "my" at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 74, near "my"
+syntax error at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 78, near "}"
+Compilation failed in require at (eval 132) line 1.
+
+[Sun Mar  4 10:17:05 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 10:17:05 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 10:17:05 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 10:17:05 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 10:17:05 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 10:17:05 2018] [debug] 500 Internal Server Error (0.087502s, 11.428/s)
+[Sun Mar  4 10:17:25 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:17:25 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 10:17:25 2018] [info] Generate urls
+[Sun Mar  4 10:17:25 2018] [debug] 200 OK (0.057044s, 17.530/s)
+[Sun Mar  4 10:18:56 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:18:56 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 10:18:56 2018] [info] Generate urls
+[Sun Mar  4 10:18:56 2018] [debug] 200 OK (0.052644s, 18.996/s)
+[Sun Mar  4 10:18:59 2018] [info] fetch url:
+[Sun Mar  4 10:18:59 2018] [info] fetch url:
+[Sun Mar  4 10:19:00 2018] [info] fetch url:
+[Sun Mar  4 10:19:03 2018] [info] fetch url:
+[Sun Mar  4 10:19:05 2018] [info] fetch url:
+[Sun Mar  4 10:19:05 2018] [info] fetch url:
+[Sun Mar  4 10:19:06 2018] [info] fetch url:
+[Sun Mar  4 10:19:06 2018] [info] fetch url:
+[Sun Mar  4 10:19:07 2018] [info] fetch url:
+[Sun Mar  4 10:19:08 2018] [info] fetch url:
+[Sun Mar  4 10:19:08 2018] [info] fetch url:
+[Sun Mar  4 10:20:09 2018] [debug] GET "/litmir"
+[Sun Mar  4 10:20:09 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 10:20:09 2018] [info] Generate urls
+[Sun Mar  4 10:20:09 2018] [debug] 200 OK (0.057194s, 17.484/s)
+[Sun Mar  4 10:20:12 2018] [info] fetch url:https://www.litmir.me/bs?year_after=1059&year_before=2018&genre=130%2C131%2C133%2C149%2C151%2C134%2C155%2C156%2C162%2C135%2C136%2C158%2C275%2C157%2C141%2C152%2C161%2C150%2C153%2C137%2C159%2C160%2C138%2C154%2C140%2C132%2C139%2C163%2C59%2C170%2C99%2C101%2C103%2C100%2C181%2C145%2C276%2C98%2C279%2C102%2C13%2C14%2C16%2C15%2C18%2C19%2C17%2C39%2C42%2C41%2C40%2C43%2C44%2C201%2C195%2C200%2C32%2C198%2C193%2C209%2C207%2C206%2C199%2C197%2C214%2C208%2C213%2C20%2C22%2C202%2C30%2C28%2C204%2C196%2C203%2C25%2C34%2C21%2C215%2C23%2C212%2C216%2C33%2C210%2C29%2C194%2C24%2C31%2C211%2C205%2C26%2C27%2C272%2C271%2C274%2C273&rs=3&order=rating_avg_up&p=10
+[Sun Mar  4 10:20:12 2018] [info] fetch url:https://www.litmir.me/bs?year_after=1059&year_before=2018&genre=130%2C131%2C133%2C149%2C151%2C134%2C155%2C156%2C162%2C135%2C136%2C158%2C275%2C157%2C141%2C152%2C161%2C150%2C153%2C137%2C159%2C160%2C138%2C154%2C140%2C132%2C139%2C163%2C59%2C170%2C99%2C101%2C103%2C100%2C181%2C145%2C276%2C98%2C279%2C102%2C13%2C14%2C16%2C15%2C18%2C19%2C17%2C39%2C42%2C41%2C40%2C43%2C44%2C201%2C195%2C200%2C32%2C198%2C193%2C209%2C207%2C206%2C199%2C197%2C214%2C208%2C213%2C20%2C22%2C202%2C30%2C28%2C204%2C196%2C203%2C25%2C34%2C21%2C215%2C23%2C212%2C216%2C33%2C210%2C29%2C194%2C24%2C31%2C211%2C205%2C26%2C27%2C272%2C271%2C274%2C273&rs=3&order=rating_avg_up&p=9
+[Sun Mar  4 10:20:12 2018] [info] fetch url:https://www.litmir.me/bs?year_after=1059&year_before=2018&genre=130%2C131%2C133%2C149%2C151%2C134%2C155%2C156%2C162%2C135%2C136%2C158%2C275%2C157%2C141%2C152%2C161%2C150%2C153%2C137%2C159%2C160%2C138%2C154%2C140%2C132%2C139%2C163%2C59%2C170%2C99%2C101%2C103%2C100%2C181%2C145%2C276%2C98%2C279%2C102%2C13%2C14%2C16%2C15%2C18%2C19%2C17%2C39%2C42%2C41%2C40%2C43%2C44%2C201%2C195%2C200%2C32%2C198%2C193%2C209%2C207%2C206%2C199%2C197%2C214%2C208%2C213%2C20%2C22%2C202%2C30%2C28%2C204%2C196%2C203%2C25%2C34%2C21%2C215%2C23%2C212%2C216%2C33%2C210%2C29%2C194%2C24%2C31%2C211%2C205%2C26%2C27%2C272%2C271%2C274%2C273&rs=3&order=rating_avg_up&p=8
+[Sun Mar  4 10:20:13 2018] [info] fetch url:https://www.litmir.me/bs?year_after=1059&year_before=2018&genre=130%2C131%2C133%2C149%2C151%2C134%2C155%2C156%2C162%2C135%2C136%2C158%2C275%2C157%2C141%2C152%2C161%2C150%2C153%2C137%2C159%2C160%2C138%2C154%2C140%2C132%2C139%2C163%2C59%2C170%2C99%2C101%2C103%2C100%2C181%2C145%2C276%2C98%2C279%2C102%2C13%2C14%2C16%2C15%2C18%2C19%2C17%2C39%2C42%2C41%2C40%2C43%2C44%2C201%2C195%2C200%2C32%2C198%2C193%2C209%2C207%2C206%2C199%2C197%2C214%2C208%2C213%2C20%2C22%2C202%2C30%2C28%2C204%2C196%2C203%2C25%2C34%2C21%2C215%2C23%2C212%2C216%2C33%2C210%2C29%2C194%2C24%2C31%2C211%2C205%2C26%2C27%2C272%2C271%2C274%2C273&rs=3&order=rating_avg_up&p=11
+[Sun Mar  4 10:20:14 2018] [info] fetch url:https://www.litmir.me/bs?year_after=1059&year_before=2018&genre=130%2C131%2C133%2C149%2C151%2C134%2C155%2C156%2C162%2C135%2C136%2C158%2C275%2C157%2C141%2C152%2C161%2C150%2C153%2C137%2C159%2C160%2C138%2C154%2C140%2C132%2C139%2C163%2C59%2C170%2C99%2C101%2C103%2C100%2C181%2C145%2C276%2C98%2C279%2C102%2C13%2C14%2C16%2C15%2C18%2C19%2C17%2C39%2C42%2C41%2C40%2C43%2C44%2C201%2C195%2C200%2C32%2C198%2C193%2C209%2C207%2C206%2C199%2C197%2C214%2C208%2C213%2C20%2C22%2C202%2C30%2C28%2C204%2C196%2C203%2C25%2C34%2C21%2C215%2C23%2C212%2C216%2C33%2C210%2C29%2C194%2C24%2C31%2C211%2C205%2C26%2C27%2C272%2C271%2C274%2C273&rs=3&order=rating_avg_up&p=1
+[Sun Mar  4 10:20:14 2018] [info] fetch url:https://www.litmir.me/bs?year_after=1059&year_before=2018&genre=130%2C131%2C133%2C149%2C151%2C134%2C155%2C156%2C162%2C135%2C136%2C158%2C275%2C157%2C141%2C152%2C161%2C150%2C153%2C137%2C159%2C160%2C138%2C154%2C140%2C132%2C139%2C163%2C59%2C170%2C99%2C101%2C103%2C100%2C181%2C145%2C276%2C98%2C279%2C102%2C13%2C14%2C16%2C15%2C18%2C19%2C17%2C39%2C42%2C41%2C40%2C43%2C44%2C201%2C195%2C200%2C32%2C198%2C193%2C209%2C207%2C206%2C199%2C197%2C214%2C208%2C213%2C20%2C22%2C202%2C30%2C28%2C204%2C196%2C203%2C25%2C34%2C21%2C215%2C23%2C212%2C216%2C33%2C210%2C29%2C194%2C24%2C31%2C211%2C205%2C26%2C27%2C272%2C271%2C274%2C273&rs=3&order=rating_avg_up&p=2
+[Sun Mar  4 10:20:15 2018] [info] fetch url:https://www.litmir.me/bs?year_after=1059&year_before=2018&genre=130%2C131%2C133%2C149%2C151%2C134%2C155%2C156%2C162%2C135%2C136%2C158%2C275%2C157%2C141%2C152%2C161%2C150%2C153%2C137%2C159%2C160%2C138%2C154%2C140%2C132%2C139%2C163%2C59%2C170%2C99%2C101%2C103%2C100%2C181%2C145%2C276%2C98%2C279%2C102%2C13%2C14%2C16%2C15%2C18%2C19%2C17%2C39%2C42%2C41%2C40%2C43%2C44%2C201%2C195%2C200%2C32%2C198%2C193%2C209%2C207%2C206%2C199%2C197%2C214%2C208%2C213%2C20%2C22%2C202%2C30%2C28%2C204%2C196%2C203%2C25%2C34%2C21%2C215%2C23%2C212%2C216%2C33%2C210%2C29%2C194%2C24%2C31%2C211%2C205%2C26%2C27%2C272%2C271%2C274%2C273&rs=3&order=rating_avg_up&p=4
+[Sun Mar  4 10:20:15 2018] [info] fetch url:https://www.litmir.me/bs?year_after=1059&year_before=2018&genre=130%2C131%2C133%2C149%2C151%2C134%2C155%2C156%2C162%2C135%2C136%2C158%2C275%2C157%2C141%2C152%2C161%2C150%2C153%2C137%2C159%2C160%2C138%2C154%2C140%2C132%2C139%2C163%2C59%2C170%2C99%2C101%2C103%2C100%2C181%2C145%2C276%2C98%2C279%2C102%2C13%2C14%2C16%2C15%2C18%2C19%2C17%2C39%2C42%2C41%2C40%2C43%2C44%2C201%2C195%2C200%2C32%2C198%2C193%2C209%2C207%2C206%2C199%2C197%2C214%2C208%2C213%2C20%2C22%2C202%2C30%2C28%2C204%2C196%2C203%2C25%2C34%2C21%2C215%2C23%2C212%2C216%2C33%2C210%2C29%2C194%2C24%2C31%2C211%2C205%2C26%2C27%2C272%2C271%2C274%2C273&rs=3&order=rating_avg_up&p=5
+[Sun Mar  4 10:20:15 2018] [info] fetch url:https://www.litmir.me/bs?year_after=1059&year_before=2018&genre=130%2C131%2C133%2C149%2C151%2C134%2C155%2C156%2C162%2C135%2C136%2C158%2C275%2C157%2C141%2C152%2C161%2C150%2C153%2C137%2C159%2C160%2C138%2C154%2C140%2C132%2C139%2C163%2C59%2C170%2C99%2C101%2C103%2C100%2C181%2C145%2C276%2C98%2C279%2C102%2C13%2C14%2C16%2C15%2C18%2C19%2C17%2C39%2C42%2C41%2C40%2C43%2C44%2C201%2C195%2C200%2C32%2C198%2C193%2C209%2C207%2C206%2C199%2C197%2C214%2C208%2C213%2C20%2C22%2C202%2C30%2C28%2C204%2C196%2C203%2C25%2C34%2C21%2C215%2C23%2C212%2C216%2C33%2C210%2C29%2C194%2C24%2C31%2C211%2C205%2C26%2C27%2C272%2C271%2C274%2C273&rs=3&order=rating_avg_up&p=7
+[Sun Mar  4 10:20:16 2018] [info] fetch url:https://www.litmir.me/bs?year_after=1059&year_before=2018&genre=130%2C131%2C133%2C149%2C151%2C134%2C155%2C156%2C162%2C135%2C136%2C158%2C275%2C157%2C141%2C152%2C161%2C150%2C153%2C137%2C159%2C160%2C138%2C154%2C140%2C132%2C139%2C163%2C59%2C170%2C99%2C101%2C103%2C100%2C181%2C145%2C276%2C98%2C279%2C102%2C13%2C14%2C16%2C15%2C18%2C19%2C17%2C39%2C42%2C41%2C40%2C43%2C44%2C201%2C195%2C200%2C32%2C198%2C193%2C209%2C207%2C206%2C199%2C197%2C214%2C208%2C213%2C20%2C22%2C202%2C30%2C28%2C204%2C196%2C203%2C25%2C34%2C21%2C215%2C23%2C212%2C216%2C33%2C210%2C29%2C194%2C24%2C31%2C211%2C205%2C26%2C27%2C272%2C271%2C274%2C273&rs=3&order=rating_avg_up&p=3
+[Sun Mar  4 10:31:13 2018] [debug] GET "/"
+[Sun Mar  4 10:31:13 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 10:31:13 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 10:31:13 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 10:31:13 2018] [debug] 200 OK (0.017815s, 56.132/s)
+[Sun Mar  4 10:31:19 2018] [debug] GET "/get_json"
+[Sun Mar  4 10:31:19 2018] [debug] Routing to controller "App::Litmir" and action "get_json"
+[Sun Mar  4 10:31:19 2018] [error] DBIx::Class::ResultSource::_resolve_join(): No such relationship genre, on Book at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 16
+
+[Sun Mar  4 10:31:19 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 10:31:19 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 10:31:19 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 10:31:19 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 10:31:19 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 10:31:19 2018] [debug] 500 Internal Server Error (0.107894s, 9.268/s)
+[Sun Mar  4 10:31:53 2018] [debug] GET "/get_json"
+[Sun Mar  4 10:31:53 2018] [debug] Routing to controller "App::Litmir" and action "get_json"
+[Sun Mar  4 10:31:54 2018] [debug] 200 OK (0.240941s, 4.150/s)
+[Sun Mar  4 10:34:44 2018] [debug] GET "/get_json"
+[Sun Mar  4 10:34:44 2018] [debug] Routing to controller "App::Litmir" and action "get_json"
+[Sun Mar  4 10:34:44 2018] [debug] 200 OK (0.25539s, 3.916/s)
+[Sun Mar  4 10:37:01 2018] [debug] GET "/get_json"
+[Sun Mar  4 10:37:01 2018] [debug] Routing to controller "App::Litmir" and action "get_json"
+[Sun Mar  4 10:37:01 2018] [debug] 200 OK (0.168155s, 5.947/s)
+[Sun Mar  4 17:39:52 2018] [debug] GET "/"
+[Sun Mar  4 17:39:52 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 17:39:52 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 17:39:52 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 17:39:52 2018] [debug] 200 OK (0.011884s, 84.147/s)
+[Sun Mar  4 17:39:56 2018] [debug] GET "/"
+[Sun Mar  4 17:39:56 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 17:39:56 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Sun Mar  4 17:39:56 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 17:39:56 2018] [debug] 200 OK (0.001435s, 696.864/s)
+[Sun Mar  4 17:59:03 2018] [debug] GET "/"
+[Sun Mar  4 17:59:03 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 17:59:03 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 17:59:03 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 17:59:03 2018] [debug] 200 OK (0.015526s, 64.408/s)
+[Sun Mar  4 17:59:50 2018] [debug] GET "/list"
+[Sun Mar  4 17:59:50 2018] [debug] Routing to controller "App::Litmir" and action "list"
+[Sun Mar  4 17:59:50 2018] [debug] Template "litmir/list.html.ep" not found
+[Sun Mar  4 17:59:50 2018] [debug] Template "not_found.development.html.ep" not found
+[Sun Mar  4 17:59:50 2018] [debug] Template "not_found.html.ep" not found
+[Sun Mar  4 17:59:50 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 17:59:50 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 17:59:50 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 17:59:50 2018] [debug] 404 Not Found (0.066858s, 14.957/s)
+[Sun Mar  4 18:06:15 2018] [debug] GET "/list"
+[Sun Mar  4 18:06:15 2018] [debug] Routing to controller "App::Litmir" and action "list"
+[Sun Mar  4 18:06:15 2018] [debug] Template "litmir/list.html.ep" not found
+[Sun Mar  4 18:06:15 2018] [debug] Template "not_found.development.html.ep" not found
+[Sun Mar  4 18:06:15 2018] [debug] Template "not_found.html.ep" not found
+[Sun Mar  4 18:06:15 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 18:06:15 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 18:06:15 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 18:06:15 2018] [debug] 404 Not Found (0.074459s, 13.430/s)
+[Sun Mar  4 18:09:13 2018] [debug] GET "/list"
+[Sun Mar  4 18:09:13 2018] [debug] Routing to controller "App::Litmir" and action "list"
+[Sun Mar  4 18:09:13 2018] [debug] Template "litmir/list.html.ep" not found
+[Sun Mar  4 18:09:13 2018] [debug] Template "not_found.development.html.ep" not found
+[Sun Mar  4 18:09:13 2018] [debug] Template "not_found.html.ep" not found
+[Sun Mar  4 18:09:13 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 18:09:13 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 18:09:13 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 18:09:13 2018] [debug] 404 Not Found (0.082796s, 12.078/s)
+[Sun Mar  4 18:10:22 2018] [debug] GET "/list"
+[Sun Mar  4 18:10:22 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 18:10:22 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 18:10:22 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 18:10:22 2018] [debug] 200 OK (0.023859s, 41.913/s)
+[Sun Mar  4 18:10:23 2018] [debug] GET "/list"
+[Sun Mar  4 18:10:23 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 18:10:23 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 18:10:23 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 18:10:23 2018] [debug] 200 OK (0.01333s, 75.019/s)
+[Sun Mar  4 18:16:31 2018] [debug] GET "/list"
+[Sun Mar  4 18:16:31 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 18:16:31 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 18:16:31 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 18:16:31 2018] [debug] 200 OK (0.026015s, 38.439/s)
+[Sun Mar  4 18:16:32 2018] [debug] GET "/list"
+[Sun Mar  4 18:16:32 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 18:16:32 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 18:16:32 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 18:16:32 2018] [debug] 200 OK (0.013136s, 76.127/s)
+[Sun Mar  4 18:20:40 2018] [debug] GET "/list"
+[Sun Mar  4 18:20:40 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 18:20:40 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 18:20:40 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 18:20:40 2018] [debug] 200 OK (0.016924s, 59.088/s)
+[Sun Mar  4 18:20:41 2018] [debug] GET "/list"
+[Sun Mar  4 18:20:41 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 18:20:41 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 18:20:41 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 18:20:41 2018] [debug] 200 OK (0.003817s, 261.986/s)
+[Sun Mar  4 18:34:38 2018] [debug] GET "/list"
+[Sun Mar  4 18:34:38 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 18:34:38 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 18:34:38 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 18:34:38 2018] [debug] 200 OK (0.018154s, 55.084/s)
+[Sun Mar  4 18:36:08 2018] [debug] GET "/list"
+[Sun Mar  4 18:36:08 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 18:36:08 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 18:36:08 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 18:36:08 2018] [debug] 200 OK (0.016517s, 60.544/s)
+[Sun Mar  4 18:41:29 2018] [debug] GET "/list"
+[Sun Mar  4 18:41:29 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 18:41:29 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 18:41:29 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 18:41:29 2018] [debug] 200 OK (0.014007s, 71.393/s)
+[Sun Mar  4 18:42:14 2018] [debug] GET "/list"
+[Sun Mar  4 18:42:14 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 18:42:14 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 18:42:14 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 18:42:14 2018] [debug] 200 OK (0.014128s, 70.781/s)
+[Sun Mar  4 18:45:35 2018] [debug] GET "/list"
+[Sun Mar  4 18:45:35 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 18:45:35 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 18:45:35 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 18:45:35 2018] [debug] 200 OK (0.015263s, 65.518/s)
+[Sun Mar  4 19:15:45 2018] [debug] GET "/list"
+[Sun Mar  4 19:15:45 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 19:15:45 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 19:15:45 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 19:15:45 2018] [debug] 200 OK (0.015798s, 63.299/s)
+[Sun Mar  4 19:32:44 2018] [debug] GET "/list"
+[Sun Mar  4 19:32:44 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 19:32:44 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 19:32:44 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 19:32:44 2018] [debug] 200 OK (0.01675s, 59.701/s)
+[Sun Mar  4 19:32:44 2018] [debug] GET "/get"
+[Sun Mar  4 19:32:44 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 19:32:44 2018] [debug] 200 OK (0.280749s, 3.562/s)
+[Sun Mar  4 19:34:07 2018] [debug] GET "/list"
+[Sun Mar  4 19:34:07 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 19:34:07 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 19:34:07 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 19:34:07 2018] [debug] 200 OK (0.019967s, 50.083/s)
+[Sun Mar  4 19:34:08 2018] [debug] GET "/get"
+[Sun Mar  4 19:34:08 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 19:34:08 2018] [debug] 200 OK (0.241275s, 4.145/s)
+[Sun Mar  4 19:35:49 2018] [debug] GET "/list"
+[Sun Mar  4 19:35:49 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 19:35:49 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 19:35:49 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 19:35:49 2018] [debug] 200 OK (0.018296s, 54.657/s)
+[Sun Mar  4 19:35:49 2018] [debug] GET "/get"
+[Sun Mar  4 19:35:49 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 19:35:50 2018] [debug] 200 OK (0.221359s, 4.518/s)
+[Sun Mar  4 19:36:29 2018] [debug] GET "/list"
+[Sun Mar  4 19:36:29 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 19:36:29 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 19:36:29 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 19:36:29 2018] [debug] 200 OK (0.002732s, 366.032/s)
+[Sun Mar  4 19:36:29 2018] [debug] GET "/get"
+[Sun Mar  4 19:36:29 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 19:36:29 2018] [debug] 200 OK (0.024592s, 40.664/s)
+[Sun Mar  4 20:11:11 2018] [debug] GET "/list"
+[Sun Mar  4 20:11:11 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 20:11:11 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 20:11:11 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 20:11:11 2018] [debug] 200 OK (0.013061s, 76.564/s)
+[Sun Mar  4 20:11:12 2018] [debug] GET "/get"
+[Sun Mar  4 20:11:12 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 20:11:12 2018] [debug] 200 OK (0.230403s, 4.340/s)
+[Sun Mar  4 20:12:50 2018] [debug] GET "/list"
+[Sun Mar  4 20:12:50 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 20:12:50 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 20:12:50 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 20:12:50 2018] [debug] 200 OK (0.018964s, 52.731/s)
+[Sun Mar  4 20:12:50 2018] [debug] GET "/get"
+[Sun Mar  4 20:12:50 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 20:12:51 2018] [debug] 200 OK (0.239395s, 4.177/s)
+[Sun Mar  4 20:12:59 2018] [debug] GET "/list"
+[Sun Mar  4 20:12:59 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 20:12:59 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 20:12:59 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 20:12:59 2018] [debug] 200 OK (0.002243s, 445.831/s)
+[Sun Mar  4 20:13:00 2018] [debug] GET "/get"
+[Sun Mar  4 20:13:00 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 20:13:00 2018] [debug] 200 OK (0.03048s, 32.808/s)
+[Sun Mar  4 20:14:05 2018] [debug] GET "/list"
+[Sun Mar  4 20:14:05 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 20:14:05 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 20:14:05 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 20:14:05 2018] [debug] 200 OK (0.001424s, 702.247/s)
+[Sun Mar  4 20:14:05 2018] [debug] GET "/get"
+[Sun Mar  4 20:14:05 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 20:14:05 2018] [debug] 200 OK (0.025361s, 39.431/s)
+[Sun Mar  4 20:23:11 2018] [debug] GET "/list"
+[Sun Mar  4 20:23:11 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 20:23:11 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 20:23:11 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 20:23:11 2018] [debug] 200 OK (0.019672s, 50.834/s)
+[Sun Mar  4 20:23:11 2018] [debug] GET "/get"
+[Sun Mar  4 20:23:11 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 20:23:11 2018] [debug] 200 OK (0.236389s, 4.230/s)
+[Sun Mar  4 20:23:48 2018] [debug] GET "/list"
+[Sun Mar  4 20:23:48 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 20:23:48 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 20:23:48 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 20:23:48 2018] [debug] 200 OK (0.01432s, 69.832/s)
+[Sun Mar  4 20:24:07 2018] [debug] GET "/list"
+[Sun Mar  4 20:24:07 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 20:24:07 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 20:24:07 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 20:24:07 2018] [debug] 200 OK (0.016304s, 61.335/s)
+[Sun Mar  4 20:24:07 2018] [debug] GET "/get"
+[Sun Mar  4 20:24:07 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 20:24:07 2018] [debug] 200 OK (0.237298s, 4.214/s)
+[Sun Mar  4 20:29:55 2018] [debug] GET "/list"
+[Sun Mar  4 20:29:55 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 20:29:55 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 20:29:55 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 20:29:55 2018] [debug] 200 OK (0.016882s, 59.235/s)
+[Sun Mar  4 20:29:56 2018] [debug] GET "/get"
+[Sun Mar  4 20:29:56 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 20:29:56 2018] [debug] 200 OK (0.226812s, 4.409/s)
+[Sun Mar  4 20:51:36 2018] [debug] GET "/list"
+[Sun Mar  4 20:51:36 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 20:51:36 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 20:51:36 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 20:51:36 2018] [debug] 200 OK (0.014021s, 71.322/s)
+[Sun Mar  4 20:56:36 2018] [debug] GET "/list"
+[Sun Mar  4 20:56:36 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 20:56:36 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 20:56:36 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 20:56:36 2018] [debug] 200 OK (0.015553s, 64.296/s)
+[Sun Mar  4 20:56:57 2018] [debug] GET "/list"
+[Sun Mar  4 20:56:57 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 20:56:57 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 20:56:57 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 20:56:57 2018] [debug] 200 OK (0.015694s, 63.719/s)
+[Sun Mar  4 21:01:27 2018] [debug] GET "/list"
+[Sun Mar  4 21:01:27 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:01:27 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:01:27 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:01:27 2018] [debug] 200 OK (0.016393s, 61.002/s)
+[Sun Mar  4 21:01:50 2018] [debug] GET "/list"
+[Sun Mar  4 21:01:50 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:01:50 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:01:50 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:01:50 2018] [debug] 200 OK (0.015264s, 65.514/s)
+[Sun Mar  4 21:09:46 2018] [debug] GET "/list"
+[Sun Mar  4 21:09:46 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:09:46 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:09:46 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:09:46 2018] [debug] 200 OK (0.015588s, 64.152/s)
+[Sun Mar  4 21:10:24 2018] [debug] GET "/list"
+[Sun Mar  4 21:10:24 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:10:24 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:10:24 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:10:24 2018] [debug] 200 OK (0.018142s, 55.121/s)
+[Sun Mar  4 21:11:10 2018] [debug] GET "/list"
+[Sun Mar  4 21:11:10 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:11:10 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 21:11:10 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 21:11:10 2018] [debug] 200 OK (0.001129s, 885.740/s)
+[Sun Mar  4 21:11:12 2018] [debug] GET "/list"
+[Sun Mar  4 21:11:12 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:11:12 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 21:11:12 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 21:11:12 2018] [debug] 200 OK (0.002069s, 483.325/s)
+[Sun Mar  4 21:11:58 2018] [debug] GET "/list"
+[Sun Mar  4 21:11:58 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:11:58 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:11:58 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:11:58 2018] [debug] 200 OK (0.016905s, 59.154/s)
+[Sun Mar  4 21:12:14 2018] [debug] GET "/list"
+[Sun Mar  4 21:12:14 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:12:14 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:12:14 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:12:14 2018] [debug] 200 OK (0.025024s, 39.962/s)
+[Sun Mar  4 21:12:30 2018] [debug] GET "/list"
+[Sun Mar  4 21:12:30 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:12:30 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:12:30 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:12:30 2018] [debug] 200 OK (0.01753s, 57.045/s)
+[Sun Mar  4 21:12:48 2018] [debug] GET "/list"
+[Sun Mar  4 21:12:48 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:12:48 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:12:48 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:12:48 2018] [debug] 200 OK (0.017527s, 57.055/s)
+[Sun Mar  4 21:13:22 2018] [debug] GET "/list"
+[Sun Mar  4 21:13:22 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:13:22 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:13:22 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:13:22 2018] [debug] 200 OK (0.014151s, 70.666/s)
+[Sun Mar  4 21:13:22 2018] [debug] GET "/get"
+[Sun Mar  4 21:13:22 2018] [debug] Routing to controller "App::Litmir" and action "get"
+[Sun Mar  4 21:13:23 2018] [debug] 200 OK (0.227952s, 4.387/s)
+[Sun Mar  4 21:13:36 2018] [debug] GET "/list"
+[Sun Mar  4 21:13:36 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:13:36 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:13:36 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:13:36 2018] [debug] 200 OK (0.016171s, 61.839/s)
+[Sun Mar  4 21:13:48 2018] [debug] GET "/list"
+[Sun Mar  4 21:13:48 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:13:48 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:13:48 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:13:48 2018] [debug] 200 OK (0.015712s, 63.646/s)
+[Sun Mar  4 21:14:04 2018] [debug] GET "/list"
+[Sun Mar  4 21:14:04 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:14:04 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:14:04 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:14:04 2018] [debug] 200 OK (0.019145s, 52.233/s)
+[Sun Mar  4 21:14:37 2018] [debug] GET "/list"
+[Sun Mar  4 21:14:37 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:14:37 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:14:37 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:14:37 2018] [debug] 200 OK (0.019746s, 50.643/s)
+[Sun Mar  4 21:14:45 2018] [debug] GET "/list"
+[Sun Mar  4 21:14:45 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:14:45 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:14:45 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:14:45 2018] [debug] 200 OK (0.016272s, 61.455/s)
+[Sun Mar  4 21:15:04 2018] [debug] GET "/list"
+[Sun Mar  4 21:15:04 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:15:04 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 21:15:04 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 21:15:04 2018] [debug] 200 OK (0.001304s, 766.871/s)
+[Sun Mar  4 21:15:47 2018] [debug] GET "/list"
+[Sun Mar  4 21:15:47 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:15:47 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 21:15:47 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 21:15:47 2018] [debug] 200 OK (0.001654s, 604.595/s)
+[Sun Mar  4 21:28:43 2018] [debug] GET "/list"
+[Sun Mar  4 21:28:43 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:28:43 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:28:43 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:28:43 2018] [debug] 200 OK (0.013052s, 76.617/s)
+[Sun Mar  4 21:42:03 2018] [debug] GET "/list"
+[Sun Mar  4 21:42:03 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:42:03 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:42:03 2018] [error] Global symbol "$data" requires explicit package name (did you forget to declare "my $data"?) at template start/list.html.ep line 20.
+15: 			<th>Count pages</th>
+16: 			<th>Delete</th>
+17: 		</tr>
+18: 	</thead>
+19: 	<tbody>
+20: 		% for my $book(@$data) {
+21: 			<td><%=$book->{name}%></td>
+22: 			<td><%=$book->{link}%></td>
+23: 			<td><%=$book->{image_path}%></td>
+24: 			<td><%=$book->{author}%></td>
+25: 			<td><%=$book->{genre}%></td>
+
+[Sun Mar  4 21:42:03 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 21:42:03 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 21:42:03 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 21:42:03 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 21:42:03 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 21:42:03 2018] [debug] 500 Internal Server Error (0.05159s, 19.384/s)
+[Sun Mar  4 21:46:08 2018] [debug] GET "/list"
+[Sun Mar  4 21:46:08 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:46:08 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:46:08 2018] [error] Global symbol "$books" requires explicit package name (did you forget to declare "my $books"?) at template start/list.html.ep line 20.
+15: 			<th>Count pages</th>
+16: 			<th>Delete</th>
+17: 		</tr>
+18: 	</thead>
+19: 	<tbody>
+20: 		% for my $book(@$books) {
+21: 			<td><%=$book->{name}%></td>
+22: 			<td><%=$book->{link}%></td>
+23: 			<td><%=$book->{image_path}%></td>
+24: 			<td><%=$book->{author}%></td>
+25: 			<td><%=$book->{genre}%></td>
+
+[Sun Mar  4 21:46:08 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 21:46:08 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 21:46:08 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 21:46:08 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 21:46:08 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 21:46:08 2018] [debug] 500 Internal Server Error (0.058642s, 17.053/s)
+[Sun Mar  4 21:46:52 2018] [debug] GET "/list"
+[Sun Mar  4 21:46:52 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:46:52 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:46:52 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:46:52 2018] [debug] 200 OK (0.016023s, 62.410/s)
+[Sun Mar  4 21:47:59 2018] [debug] GET "/list"
+[Sun Mar  4 21:47:59 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:47:59 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:47:59 2018] [error] Global symbol "$list" requires explicit package name (did you forget to declare "my $list"?) at template start/list.html.ep line 20.
+15: 			<th>Count pages</th>
+16: 			<th>Delete</th>
+17: 		</tr>
+18: 	</thead>
+19: 	<tbody>
+20: 		% for my $book(@$list) {
+21: 			<td><%=$book->{name}%></td>
+22: 			<td><%=$book->{link}%></td>
+23: 			<td><%=$book->{image_path}%></td>
+24: 			<td><%=$book->{author}%></td>
+25: 			<td><%=$book->{genre}%></td>
+
+[Sun Mar  4 21:47:59 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 21:47:59 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 21:47:59 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 21:47:59 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 21:47:59 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 21:47:59 2018] [debug] 500 Internal Server Error (0.048239s, 20.730/s)
+[Sun Mar  4 21:49:18 2018] [debug] GET "/list"
+[Sun Mar  4 21:49:18 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:49:18 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:49:18 2018] [error] Global symbol "$list" requires explicit package name (did you forget to declare "my $list"?) at template start/list.html.ep line 20.
+15: 			<th>Count pages</th>
+16: 			<th>Delete</th>
+17: 		</tr>
+18: 	</thead>
+19: 	<tbody>
+20: 		% for my $book(@$list) {
+21: 			<td><%=$book->{name}%></td>
+22: 			<td><%=$book->{link}%></td>
+23: 			<td><%=$book->{image_path}%></td>
+24: 			<td><%=$book->{author}%></td>
+25: 			<td><%=$book->{genre}%></td>
+
+[Sun Mar  4 21:49:18 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 21:49:18 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 21:49:18 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 21:49:18 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 21:49:18 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 21:49:18 2018] [debug] 500 Internal Server Error (0.073087s, 13.682/s)
+[Sun Mar  4 21:49:25 2018] [debug] GET "/list"
+[Sun Mar  4 21:49:25 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:49:25 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:49:25 2018] [error] Global symbol "$list" requires explicit package name (did you forget to declare "my $list"?) at template start/list.html.ep line 20.
+15: 			<th>Count pages</th>
+16: 			<th>Delete</th>
+17: 		</tr>
+18: 	</thead>
+19: 	<tbody>
+20: 		% for my $book(@$list) {
+21: 			<td><%=$book->{name}%></td>
+22: 			<td><%=$book->{link}%></td>
+23: 			<td><%=$book->{image_path}%></td>
+24: 			<td><%=$book->{author}%></td>
+25: 			<td><%=$book->{genre}%></td>
+
+[Sun Mar  4 21:49:25 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 21:49:25 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 21:49:25 2018] [debug] Rendering cached template "mojo/debug.html.ep"
+[Sun Mar  4 21:49:25 2018] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Sun Mar  4 21:49:25 2018] [debug] 500 Internal Server Error (0.013393s, 74.666/s)
+[Sun Mar  4 21:49:47 2018] [debug] GET "/list"
+[Sun Mar  4 21:49:47 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:49:47 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:49:47 2018] [error] Global symbol "$list" requires explicit package name (did you forget to declare "my $list"?) at template start/list.html.ep line 20.
+15: 			<th>Count pages</th>
+16: 			<th>Delete</th>
+17: 		</tr>
+18: 	</thead>
+19: 	<tbody>
+20: 		% for my $book(@$list) {
+21: 			<td><%=$book->{name}%></td>
+22: 			<td><%=$book->{link}%></td>
+23: 			<td><%=$book->{image_path}%></td>
+24: 			<td><%=$book->{author}%></td>
+25: 			<td><%=$book->{genre}%></td>
+
+[Sun Mar  4 21:49:47 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 21:49:47 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 21:49:47 2018] [debug] Rendering cached template "mojo/debug.html.ep"
+[Sun Mar  4 21:49:47 2018] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Sun Mar  4 21:49:47 2018] [debug] 500 Internal Server Error (0.014512s, 68.908/s)
+[Sun Mar  4 21:51:58 2018] [debug] GET "/list"
+[Sun Mar  4 21:51:58 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:51:58 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:51:58 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:51:58 2018] [debug] 200 OK (0.043373s, 23.056/s)
+[Sun Mar  4 21:52:08 2018] [debug] GET "/list"
+[Sun Mar  4 21:52:08 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:52:08 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 21:52:08 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 21:52:08 2018] [debug] 200 OK (0.001839s, 543.774/s)
+[Sun Mar  4 21:52:52 2018] [debug] GET "/list"
+[Sun Mar  4 21:52:52 2018] [error] Global symbol "$litmir" requires explicit package name (did you forget to declare "my $litmir"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Start.pm line 19.
+Global symbol "$litmir" requires explicit package name (did you forget to declare "my $litmir"?) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Start.pm line 20.
+Compilation failed in require at (eval 132) line 1.
+
+[Sun Mar  4 21:52:52 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 21:52:52 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 21:52:52 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 21:52:52 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 21:52:52 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 21:52:52 2018] [debug] 500 Internal Server Error (0.074519s, 13.419/s)
+[Sun Mar  4 21:53:36 2018] [debug] GET "/list"
+[Sun Mar  4 21:53:36 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:53:36 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:53:36 2018] [error] Global symbol "$list" requires explicit package name (did you forget to declare "my $list"?) at template start/list.html.ep line 20.
+15: 			<th>Count pages</th>
+16: 			<th>Delete</th>
+17: 		</tr>
+18: 	</thead>
+19: 	<tbody>
+20: 		% for (@$list) {
+21: 			<td><%=$_->{name}%></td>
+22: 			<td><%=$_->{link}%></td>
+23: 			<td><%=$_->{image_path}%></td>
+24: 			<td><%=$_->{author}%></td>
+25: 			<td><%=$_->{genre}%></td>
+
+[Sun Mar  4 21:53:36 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 21:53:36 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 21:53:36 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 21:53:36 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 21:53:36 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 21:53:36 2018] [debug] 500 Internal Server Error (0.079157s, 12.633/s)
+[Sun Mar  4 21:53:50 2018] [debug] GET "/list"
+[Sun Mar  4 21:53:50 2018] [debug] Class "App::Start" is not a controller
+[Sun Mar  4 21:53:50 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:53:50 2018] [error] Global symbol "$list" requires explicit package name (did you forget to declare "my $list"?) at template start/list.html.ep line 20.
+15: 			<th>Count pages</th>
+16: 			<th>Delete</th>
+17: 		</tr>
+18: 	</thead>
+19: 	<tbody>
+20: 		% for (@$list) {
+21: 			<td><%=$_->{name}%></td>
+22: 			<td><%=$_->{link}%></td>
+23: 			<td><%=$_->{image_path}%></td>
+24: 			<td><%=$_->{author}%></td>
+25: 			<td><%=$_->{genre}%></td>
+
+[Sun Mar  4 21:53:50 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 21:53:50 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 21:53:50 2018] [debug] Rendering cached template "mojo/debug.html.ep"
+[Sun Mar  4 21:53:50 2018] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Sun Mar  4 21:53:50 2018] [debug] 500 Internal Server Error (0.010798s, 92.610/s)
+[Sun Mar  4 21:55:21 2018] [debug] GET "/list"
+[Sun Mar  4 21:55:21 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 21:55:21 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:55:21 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:55:21 2018] [debug] 200 OK (0.149602s, 6.684/s)
+[Sun Mar  4 21:56:01 2018] [debug] GET "/list"
+[Sun Mar  4 21:56:01 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 21:56:01 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:56:01 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:56:01 2018] [debug] 200 OK (0.166049s, 6.022/s)
+[Sun Mar  4 21:57:53 2018] [debug] GET "/list"
+[Sun Mar  4 21:57:53 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 21:57:54 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:57:54 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:57:54 2018] [debug] 200 OK (0.148096s, 6.752/s)
+[Sun Mar  4 21:58:41 2018] [debug] GET "/list"
+[Sun Mar  4 21:58:42 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 21:58:42 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 21:58:42 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 21:58:42 2018] [debug] 200 OK (0.144133s, 6.938/s)
+[Sun Mar  4 22:05:34 2018] [debug] GET "/list"
+[Sun Mar  4 22:05:34 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:05:35 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:05:35 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:05:35 2018] [debug] 200 OK (0.165312s, 6.049/s)
+[Sun Mar  4 22:06:12 2018] [debug] GET "/list"
+[Sun Mar  4 22:06:12 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:06:12 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:06:12 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:06:12 2018] [debug] 200 OK (0.149674s, 6.681/s)
+[Sun Mar  4 22:07:03 2018] [debug] GET "/list"
+[Sun Mar  4 22:07:03 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:07:04 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:07:04 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:07:04 2018] [debug] 200 OK (0.153849s, 6.500/s)
+[Sun Mar  4 22:17:38 2018] [debug] GET "/list"
+[Sun Mar  4 22:17:38 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:17:38 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:17:38 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:17:38 2018] [debug] 200 OK (0.142975s, 6.994/s)
+[Sun Mar  4 22:20:52 2018] [debug] GET "/list"
+[Sun Mar  4 22:20:52 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:20:52 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:20:52 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:20:52 2018] [debug] 200 OK (0.155352s, 6.437/s)
+[Sun Mar  4 22:22:10 2018] [debug] GET "/list"
+[Sun Mar  4 22:22:10 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:22:10 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:22:10 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:22:10 2018] [debug] 200 OK (0.148981s, 6.712/s)
+[Sun Mar  4 22:30:11 2018] [debug] GET "/list"
+[Sun Mar  4 22:30:11 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:30:12 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:30:12 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:30:12 2018] [debug] 200 OK (0.146456s, 6.828/s)
+[Sun Mar  4 22:34:46 2018] [debug] GET "/list"
+[Sun Mar  4 22:34:46 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:34:46 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:34:46 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:34:46 2018] [debug] 200 OK (0.145719s, 6.863/s)
+[Sun Mar  4 22:35:04 2018] [debug] POST "/remove"
+[Sun Mar  4 22:35:04 2018] [debug] Routing to controller "App::Start" and action "remove"
+[Sun Mar  4 22:35:04 2018] [debug] 200 OK (0.123544s, 8.094/s)
+[Sun Mar  4 22:35:30 2018] [debug] POST "/remove"
+[Sun Mar  4 22:35:30 2018] [debug] Routing to controller "App::Start" and action "remove"
+[Sun Mar  4 22:35:30 2018] [error] Can't call method "delete" on an undefined value at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Start.pm line 15.
+
+[Sun Mar  4 22:35:30 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 22:35:30 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 22:35:30 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 22:35:30 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 22:35:30 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 22:35:30 2018] [debug] 500 Internal Server Error (0.044699s, 22.372/s)
+[Sun Mar  4 22:35:59 2018] [debug] GET "/list"
+[Sun Mar  4 22:35:59 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:35:59 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:35:59 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:35:59 2018] [debug] 200 OK (0.161993s, 6.173/s)
+[Sun Mar  4 22:36:05 2018] [debug] POST "/remove"
+[Sun Mar  4 22:36:05 2018] [debug] Routing to controller "App::Start" and action "remove"
+[Sun Mar  4 22:36:06 2018] [debug] 200 OK (0.064944s, 15.398/s)
+[Sun Mar  4 22:36:57 2018] [debug] GET "/list"
+[Sun Mar  4 22:36:57 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:36:57 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:36:57 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:36:57 2018] [debug] 200 OK (0.137756s, 7.259/s)
+[Sun Mar  4 22:37:04 2018] [debug] POST "/remove"
+[Sun Mar  4 22:37:04 2018] [debug] Routing to controller "App::Start" and action "remove"
+[Sun Mar  4 22:37:04 2018] [debug] 200 OK (0.057943s, 17.258/s)
+[Sun Mar  4 22:37:07 2018] [debug] POST "/remove"
+[Sun Mar  4 22:37:07 2018] [debug] Routing to controller "App::Start" and action "remove"
+[Sun Mar  4 22:37:07 2018] [debug] 200 OK (0.091073s, 10.980/s)
+[Sun Mar  4 22:37:08 2018] [debug] POST "/remove"
+[Sun Mar  4 22:37:08 2018] [debug] Routing to controller "App::Start" and action "remove"
+[Sun Mar  4 22:37:08 2018] [debug] 200 OK (0.043629s, 22.921/s)
+[Sun Mar  4 22:37:08 2018] [debug] POST "/remove"
+[Sun Mar  4 22:37:08 2018] [debug] Routing to controller "App::Start" and action "remove"
+[Sun Mar  4 22:37:08 2018] [debug] 200 OK (0.047768s, 20.935/s)
+[Sun Mar  4 22:37:08 2018] [debug] POST "/remove"
+[Sun Mar  4 22:37:08 2018] [debug] Routing to controller "App::Start" and action "remove"
+[Sun Mar  4 22:37:08 2018] [debug] 200 OK (0.040261s, 24.838/s)
+[Sun Mar  4 22:37:08 2018] [debug] POST "/remove"
+[Sun Mar  4 22:37:08 2018] [debug] Routing to controller "App::Start" and action "remove"
+[Sun Mar  4 22:37:08 2018] [debug] 200 OK (0.039499s, 25.317/s)
+[Sun Mar  4 22:37:12 2018] [debug] GET "/list"
+[Sun Mar  4 22:37:12 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:37:12 2018] [debug] Rendering cached template "start/list.html.ep"
+[Sun Mar  4 22:37:12 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 22:37:12 2018] [debug] 200 OK (0.016838s, 59.389/s)
+[Sun Mar  4 22:42:37 2018] [debug] GET "/"
+[Sun Mar  4 22:42:37 2018] [debug] Routing to controller "App::Start" and action "hello"
+[Sun Mar  4 22:42:37 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 22:42:37 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 22:42:37 2018] [debug] 200 OK (0.002746s, 364.166/s)
+[Sun Mar  4 22:42:43 2018] [debug] GET "/litmir"
+[Sun Mar  4 22:42:43 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 22:42:43 2018] [debug] 200 OK (0.008696s, 114.995/s)
+[Sun Mar  4 22:43:56 2018] [debug] GET "/"
+[Sun Mar  4 22:43:56 2018] [debug] Routing to controller "App::Start" and action "hello"
+[Sun Mar  4 22:43:56 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 22:43:56 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:43:56 2018] [debug] 200 OK (0.03592s, 27.840/s)
+[Sun Mar  4 22:43:59 2018] [debug] GET "/"
+[Sun Mar  4 22:43:59 2018] [debug] Routing to controller "App::Start" and action "hello"
+[Sun Mar  4 22:43:59 2018] [debug] Rendering cached template "start/hello.html.ep"
+[Sun Mar  4 22:43:59 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 22:43:59 2018] [debug] 200 OK (0.001531s, 653.168/s)
+[Sun Mar  4 22:44:01 2018] [debug] GET "/list"
+[Sun Mar  4 22:44:01 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:44:01 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:44:01 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 22:44:01 2018] [debug] 200 OK (0.108265s, 9.237/s)
+[Sun Mar  4 22:44:02 2018] [debug] GET "/get_json"
+[Sun Mar  4 22:44:02 2018] [debug] Routing to controller "App::Litmir" and action "get_json"
+[Sun Mar  4 22:44:02 2018] [debug] 200 OK (0.035395s, 28.253/s)
+[Sun Mar  4 22:47:24 2018] [debug] GET "/list"
+[Sun Mar  4 22:47:24 2018] [debug] Routing to controller "App::Start" and action "list"
+[Sun Mar  4 22:47:24 2018] [debug] Rendering template "start/list.html.ep"
+[Sun Mar  4 22:47:24 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 22:47:24 2018] [debug] 200 OK (0.167145s, 5.983/s)
+[Sun Mar  4 22:50:31 2018] [debug] GET "/"
+[Sun Mar  4 22:50:31 2018] [debug] Routing to controller "App::Start" and action "hello"
+[Sun Mar  4 22:50:31 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 22:50:31 2018] [debug] Rendering cached template "layouts/default.html.ep"
+[Sun Mar  4 22:50:31 2018] [debug] 200 OK (0.00233s, 429.185/s)
+[Sun Mar  4 22:50:34 2018] [debug] GET "/litmir"
+[Sun Mar  4 22:50:34 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 22:50:34 2018] [debug] 200 OK (0.015746s, 63.508/s)
+[Sun Mar  4 22:50:36 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=9
+[Sun Mar  4 22:50:37 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=5
+[Sun Mar  4 22:50:38 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=3
+[Sun Mar  4 22:50:38 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=11
+[Sun Mar  4 22:50:41 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=7
+[Sun Mar  4 22:50:42 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=2
+[Sun Mar  4 22:50:42 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=6
+[Sun Mar  4 22:50:42 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=8
+[Sun Mar  4 22:50:44 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=10
+[Sun Mar  4 22:50:44 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=4
+[Sun Mar  4 22:53:00 2018] [debug] GET "/litmir"
+[Sun Mar  4 22:53:00 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 22:53:00 2018] [debug] 200 OK (0.051224s, 19.522/s)
+[Sun Mar  4 22:54:40 2018] [debug] GET "/litmir"
+[Sun Mar  4 22:54:40 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 22:54:40 2018] [debug] 200 OK (0.004773s, 209.512/s)
+[Sun Mar  4 22:56:20 2018] [debug] GET "/litmir"
+[Sun Mar  4 22:56:21 2018] [error] Type of arg 1 to Data::Printer::p must be one of [@$%&] (not string) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 57, near ""Fetch book:$book->{name}")"
+Compilation failed in require at (eval 132) line 1.
+
+[Sun Mar  4 22:56:21 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 22:56:21 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 22:56:21 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 22:56:21 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 22:56:21 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 22:56:21 2018] [debug] 500 Internal Server Error (0.062344s, 16.040/s)
+[Sun Mar  4 22:56:21 2018] [debug] GET "/litmir"
+[Sun Mar  4 22:56:21 2018] [error] Attempt to reload App/Litmir.pm aborted.
+Compilation failed in require at (eval 145) line 1.
+
+[Sun Mar  4 22:56:21 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 22:56:21 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 22:56:21 2018] [debug] Rendering cached template "mojo/debug.html.ep"
+[Sun Mar  4 22:56:21 2018] [debug] Rendering cached template "mojo/menubar.html.ep"
+[Sun Mar  4 22:56:21 2018] [debug] 500 Internal Server Error (0.006816s, 146.714/s)
+[Sun Mar  4 23:01:35 2018] [debug] GET "/"
+[Sun Mar  4 23:01:35 2018] [debug] Routing to controller "App::Start" and action "hello"
+[Sun Mar  4 23:01:35 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 23:01:35 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 23:01:35 2018] [debug] 200 OK (0.006099s, 163.961/s)
+[Sun Mar  4 23:03:37 2018] [debug] GET "/litmir"
+[Sun Mar  4 23:03:37 2018] [error] Type of arg 1 to Data::Printer::p must be one of [@$%&] (not string) at /home/mazxcv/work-home/regru/litmir/litmir/script/../lib/App/Litmir.pm line 57, near ""Fetch book:$book->{name}")"
+Compilation failed in require at (eval 132) line 1.
+
+[Sun Mar  4 23:03:37 2018] [debug] Template "exception.development.html.ep" not found
+[Sun Mar  4 23:03:37 2018] [debug] Template "exception.html.ep" not found
+[Sun Mar  4 23:03:37 2018] [debug] Rendering template "mojo/debug.html.ep"
+[Sun Mar  4 23:03:37 2018] [debug] Rendering template "mojo/menubar.html.ep"
+[Sun Mar  4 23:03:37 2018] [debug] Your secret passphrase needs to be changed
+[Sun Mar  4 23:03:37 2018] [debug] 500 Internal Server Error (0.099154s, 10.085/s)
+[Sun Mar  4 23:04:24 2018] [debug] GET "/litmir"
+[Sun Mar  4 23:04:24 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 23:04:24 2018] [debug] 200 OK (0.063347s, 15.786/s)
+[Sun Mar  4 23:06:05 2018] [debug] GET "/"
+[Sun Mar  4 23:06:05 2018] [debug] Routing to controller "App::Start" and action "hello"
+[Sun Mar  4 23:06:05 2018] [debug] Rendering template "start/hello.html.ep"
+[Sun Mar  4 23:06:05 2018] [debug] Rendering template "layouts/default.html.ep"
+[Sun Mar  4 23:06:05 2018] [debug] 200 OK (0.034472s, 29.009/s)
+[Sun Mar  4 23:06:31 2018] [debug] GET "/litmir"
+[Sun Mar  4 23:06:31 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 23:06:31 2018] [debug] 200 OK (0.061923s, 16.149/s)
+[Sun Mar  4 23:08:37 2018] [debug] GET "/litmir"
+[Sun Mar  4 23:08:37 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 23:08:37 2018] [debug] 200 OK (0.055789s, 17.925/s)
+[Sun Mar  4 23:08:38 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=2
+[Sun Mar  4 23:08:39 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=3
+[Sun Mar  4 23:09:17 2018] [debug] GET "/litmir"
+[Sun Mar  4 23:09:17 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 23:09:17 2018] [debug] 200 OK (0.05752s, 17.385/s)
+[Sun Mar  4 23:09:19 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=2
+[Sun Mar  4 23:09:19 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=3
+[Sun Mar  4 23:10:57 2018] [debug] GET "/litmir"
+[Sun Mar  4 23:10:57 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 23:10:57 2018] [debug] 200 OK (0.060829s, 16.440/s)
+[Sun Mar  4 23:10:58 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=2
+[Sun Mar  4 23:10:59 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=3
+[Sun Mar  4 23:13:17 2018] [debug] GET "/litmir"
+[Sun Mar  4 23:13:18 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 23:13:18 2018] [debug] 200 OK (0.058024s, 17.234/s)
+[Sun Mar  4 23:13:19 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=3
+[Sun Mar  4 23:13:21 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=2
+[Sun Mar  4 23:14:40 2018] [debug] GET "/litmir"
+[Sun Mar  4 23:14:40 2018] [debug] Routing to controller "App::Litmir" and action "get_url"
+[Sun Mar  4 23:14:40 2018] [debug] 200 OK (0.060665s, 16.484/s)
+[Sun Mar  4 23:14:42 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=8
+[Sun Mar  4 23:14:42 2018] [info] Fetch book:Верой и правдой
+[Sun Mar  4 23:14:42 2018] [info] Fetch book:Ветер полыни
+[Sun Mar  4 23:14:42 2018] [info] Fetch book:Опустошенная (ЛП)
+[Sun Mar  4 23:14:42 2018] [info] Fetch book:Город потерянных душ
+[Sun Mar  4 23:14:42 2018] [info] Fetch book:Око Мира
+[Sun Mar  4 23:14:42 2018] [info] Fetch book:Девчата
+[Sun Mar  4 23:14:42 2018] [info] Fetch book:До встречи с тобой
+[Sun Mar  4 23:14:42 2018] [info] Fetch book:Портрет прекрасной принцессы
+[Sun Mar  4 23:14:42 2018] [info] Fetch book:Жениться и обезвредить
+[Sun Mar  4 23:14:42 2018] [info] Fetch book:Оптимистка (ЛП)
+[Sun Mar  4 23:14:42 2018] [info] Fetch book:Зависть
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Верховная Ведьма
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Волшебный корабль
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Цена алчности
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Алмазная колесница. Том 2
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Осколки прошлого. Эпизод I
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Темная сторона
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Враг
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Разоблачение суккуба
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Под знаменем пророчества 
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Серые Пределы (СИ)
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Третья могила прямо по курсу (ЛП)
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Трилогия «Хроники Сиалы»
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Чары индиго
+[Sun Mar  4 23:14:43 2018] [info] Fetch book:Рука Оберона
+[Sun Mar  4 23:14:43 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=7
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:Ода плагиату
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:Все точки над i
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:Стальная Крыса идет в армию
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:Знакомые незнакомцы. Мир в прорези маски (Объединенная версия)
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:Сказка о мертвой царевне и о семи богатырях
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:По следу скорпиона
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:Ангел для сестры
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:Знак четырех
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:Пленники Раздора (СИ)
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:Птичка певчая
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:Друзей не выбирают. Эпизод II
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:1Q84 (Тысяча невестьсот восемьдесят четыре). Книга 2. Июль-сентябрь.
+[Sun Mar  4 23:14:44 2018] [info] Fetch book:Знак Хаоса
+[Sun Mar  4 23:14:45 2018] [info] Fetch book:Поцелуй тьмы
+[Sun Mar  4 23:14:45 2018] [info] Fetch book:Сайтаншесская роза. Эпизод II
+[Sun Mar  4 23:14:45 2018] [info] Fetch book:МИФотолкования, или Неверные концепции
+[Sun Mar  4 23:14:45 2018] [info] Fetch book:Цетаганда
+[Sun Mar  4 23:14:45 2018] [info] Fetch book:Удачи капитана Блада
+[Sun Mar  4 23:14:45 2018] [info] Fetch book:Время жить и время умирать
+[Sun Mar  4 23:14:45 2018] [info] Fetch book:Дженни Герхардт
+[Sun Mar  4 23:14:45 2018] [info] Fetch book:Ничто не вечно
+[Sun Mar  4 23:14:45 2018] [info] Fetch book:Фаворит. Том 2. Его Таврида
+[Sun Mar  4 23:14:45 2018] [info] Fetch book:Девушка, которая играла с огнем
+[Sun Mar  4 23:14:45 2018] [info] Fetch book:Право сильнейшего. Книга 1 (СИ)
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Космопсихолухи. Том 1
+[Sun Mar  4 23:14:46 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=2
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Хроники странного королевства. Возвращение (Дилогия)
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Возвращение короля
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Лилия и лев
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Властелин колец
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Можно попросить Нину?
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Железный король
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Одиссея капитана Блада. Хроника капитана Блада
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Отель
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Телеграмма
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Повесть о настоящем человеке
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Негоже лилиям прясть
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Королевский убийца
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Судьба человека (с илл.)
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Оскар и Розовая дама
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Последний лист
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Обрученные судьбой (СИ) 
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Буря мечей
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Прислуга
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Профессиональный некромант. Мэтр на охоте
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Рукоять меча
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Поллианна
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Золотые костры
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Темная Башня
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Принц Хаоса
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Три мушкетера (ил. М.Лелуара)
+[Sun Mar  4 23:14:46 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=5
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Перси Джексон и проклятие титана
+[Sun Mar  4 23:14:46 2018] [info] Fetch book:Кофейная горечь
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Хоббит, или Туда и обратно (пер. Рахманова Наталия)
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Козыри Рока
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Аэропорт
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Подарки к Зимнепразнику
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Некромант поневоле. Часть 2 (СИ)
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Белорские хроники (сборник)
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Возвращение к практике. Том 2
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Часовое имя
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Во имя потерянных душ
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Хирург на районе (Записки районного хирурга)
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Динка (ил. А.Ермолаева)
+[Sun Mar  4 23:14:47 2018] [info] Fetch book:Поющие в терновнике
+[Sun Mar  4 23:14:48 2018] [info] Fetch book:Похититель жизней
+[Sun Mar  4 23:14:48 2018] [info] Fetch book:Приключения Тома Сойера. Приключения Гекльберри Финна
+[Sun Mar  4 23:14:48 2018] [info] Fetch book:Неукротимая планета
+[Sun Mar  4 23:14:48 2018] [info] Fetch book:Проклятый горн
+[Sun Mar  4 23:14:48 2018] [info] Fetch book:Королева Марго
+[Sun Mar  4 23:14:48 2018] [info] Fetch book:Старинный орнамент везения
+[Sun Mar  4 23:14:48 2018] [info] Fetch book:Яд и корона
+[Sun Mar  4 23:14:48 2018] [info] Fetch book:Адская практика (Дело о неприкаянной душе)
+[Sun Mar  4 23:14:48 2018] [info] Fetch book:Ночевала тучка золотая
+[Sun Mar  4 23:14:48 2018] [info] Fetch book:Яма
+[Sun Mar  4 23:14:48 2018] [info] Fetch book:Наемник Его Величества
+[Sun Mar  4 23:14:48 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=11
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Гнев ангелов
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Ходячий замок (илл. Гозман)
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Убийство в "Восточном экспрессе"
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Азазель
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Джен Эйр
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:На дне могилы (Обреченная на раннюю могилу)
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Время перемен. Лабиринт Безумия (СИ)
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Ярость Богов
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Метка Афины
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Анжелика и ее любовь
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Бернарда
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Прислушайся к сердцу
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Иллюзион
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Скорая помощь. Обычные ужасы и необычная жизнь доктора Данилова
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Первый удар (СИ)
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Гость из пекла
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Караоке для дамы с собачкой
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Простые волшебные вещи
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Статский советник
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Наследие
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Путь Шамана. Шаг 2: Гамбит Картоса
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:С тобой мои мечты
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Убийство Роджера Экройда
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Четвертая высота
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Ливень
+[Sun Mar  4 23:14:49 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=3
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Поцелуй горца
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Перси Джексон и последнее пророчество
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Кофе для невлюбленных
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Возлюби ближнего своего 
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Делатель королей (Коронатор)
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Я пережила Освенцим
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Гордость и предубеждение
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Дорога смертников (СИ)
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Огонь и лед
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Распутья. Добрые соседи
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Битва королей
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Миссия Шута
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Комната мертвых
+[Sun Mar  4 23:14:49 2018] [info] Fetch book:Жили-были старик со старухой
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Тени исчезают в полдень
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Перси Джексон и Лабиринт смерти
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Зелёная миля
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Жнецы ветра
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Искра и ветер
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Две башни
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Узорный покров
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Шестое правило волшебника, или Вера Падших
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Город стекла. Письмо Джейса к Клэри (ЛП)
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Оборотная сторона полуночи
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Граф Монте-Кристо ( с иллюстр. )
+[Sun Mar  4 23:14:50 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=10
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Свирепый ландграф
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Бесплодные земли
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Плененная душа (СИ)
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Хранитель смерти
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Собака Баскервилей
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Последняя жертва
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Границы бесконечности
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Вокруг света за восемьдесят дней
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Замок на скале
+[Sun Mar  4 23:14:50 2018] [info] Fetch book:Ветер и искры. Тетралогия
+[Sun Mar  4 23:14:51 2018] [info] Fetch book:Судьба клана
+[Sun Mar  4 23:14:51 2018] [info] Fetch book:Третья сила (СИ)
+[Sun Mar  4 23:14:51 2018] [info] Fetch book:Дипломатический иммунитет (Дипломатическая неприкосновенность)
+[Sun Mar  4 23:14:51 2018] [info] Fetch book:Трудный возраст (СИ)
+[Sun Mar  4 23:14:51 2018] [info] Fetch book:Время всегда хорошее
+[Sun Mar  4 23:14:51 2018] [info] Fetch book:Дважды укушенный (ЛП)
+[Sun Mar  4 23:14:51 2018] [info] Fetch book:Пятая могила по ту сторону света (ЛП)
+[Sun Mar  4 23:14:51 2018] [info] Fetch book:Крысявки. Крысиное житие в байках и картинках
+[Sun Mar  4 23:14:51 2018] [info] Fetch book:Умри красиво
+[Sun Mar  4 23:14:51 2018] [info] Fetch book:Волкодав
+[Sun Mar  4 23:14:51 2018] [info] Fetch book:Я слышу аромат дождя (СИ)
+[Sun Mar  4 23:14:52 2018] [info] Fetch book:Ликвидатор нулевого уровня
+[Sun Mar  4 23:14:52 2018] [info] Fetch book:Ангелы и демоны
+[Sun Mar  4 23:14:52 2018] [info] Fetch book:Три дороги во Тьму. Изменение
+[Sun Mar  4 23:14:52 2018] [info] Fetch book:Ледяной укус
+[Sun Mar  4 23:14:52 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=6
+[Sun Mar  4 23:14:52 2018] [info] Fetch book:Чуб земли. Туланский детектив
+[Sun Mar  4 23:14:52 2018] [info] Fetch book:Рыцарь Теней
+[Sun Mar  4 23:14:52 2018] [info] Fetch book:Крадущийся в тени
+[Sun Mar  4 23:14:52 2018] [info] Fetch book:Воды слонам!
+[Sun Mar  4 23:14:52 2018] [info] Fetch book:Башня Ласточки
+[Sun Mar  4 23:14:52 2018] [info] Fetch book:Трое в Песках
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Лабиринт отражений
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Профессия: ведьма (Тетралогия)
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Если наступит завтра
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Наследники Скорби
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Осколки прошлого. Эпизод II
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Печать Иуды
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Дюна
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Тьма. Рассвет Тьмы
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Кафедра странников
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Джейн Эйр (другой перевод)
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Танец Лиса(СИ)
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Сёгун
+[Sun Mar  4 23:14:53 2018] [info] Fetch book:Мартин Иден
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Долгие дороги сказок (авторский сборник) (СИ)
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Возвращение
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Нет больше слез (ЛП)
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Графиня де Монсоро
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Ведьма-хранительница
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Тень дракона
+[Sun Mar  4 23:14:54 2018] [info] Fetch url:https://www.litmir.me/bs?rs=5%7C1%7C0&p=4
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Страхи мудреца. Книга 1
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Искра жизни 
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Хроники странного королевства. Вторжение. (Дилогия)
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Одиссея капитана Блада
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Дороги и сны
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Хранители
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Возвращение
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Аутодафе
+[Sun Mar  4 23:14:54 2018] [info] Fetch book:Бремя императора: Навстречу судьбе
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Барраяр
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:На Западном фронте без перемен
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Сын Нептуна
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Хроника капитана Блада
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Остров сокровищ. Черная стрела
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Узница Шато-Гайара
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Обратная сторона пути
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Таинственный остров (иллюстр.)
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Знак Единорога
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Ученик воина (Солдат-недоучка)
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Манюня пишет фантастичЫскЫй роман
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Врата Птолемея
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Сердце в броне
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Джанга с тенями
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Манюня, юбилей Ба и прочие треволнения
+[Sun Mar  4 23:14:55 2018] [info] Fetch book:Клиника: анатомия жизни (Окончательный диагноз)
